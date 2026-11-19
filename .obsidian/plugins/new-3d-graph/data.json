@@ -1,0 +1,86 @@
+{
+  "searchQuery": "",
+  "showNeighboringNodes": true,
+  "filters": [],
+  "showAttachments": false,
+  "hideOrphans": false,
+  "showTags": false,
+  "groups": [
+    {
+      "query": "path:00 главная",
+      "color": "#FFE14D"
+    },
+    {
+      "query": "path:roblox - pandemic express/goals/пожелания",
+      "color": "#C6FF3D"
+    },
+    {
+      "query": "path:roblox - pandemic express/goals",
+      "color": "#00E5C3"
+    },
+    {
+      "query": "path:roblox - pandemic express/reports",
+      "color": "#3DFF8B"
+    },
+    {
+      "query": "path:roblox - pandemic express/design",
+      "color": "#9B7CFF"
+    },
+    {
+      "query": "path:roblox - pandemic express/системы",
+      "color": "#2F7BFF"
+    },
+    {
+      "query": "path:roblox - pandemic express",
+      "color": "#7DF9FF"
+    },
+    {
+      "query": "path:sunset driver/версии",
+      "color": "#FF5FD2"
+    },
+    {
+      "query": "path:sunset driver/системы",
+      "color": "#FF8A3D"
+    },
+    {
+      "query": "path:sunset driver",
+      "color": "#FF3D5A"
+    },
+    {
+      "query": "path:прочее",
+      "color": "#8A8FA8"
+    }
+  ],
+  "useThemeColors": false,
+  "colorNode": "#B8C0E0",
+  "colorTag": "#FF5FD2",
+  "colorAttachment": "#75B63A",
+  "colorLink": "#3E3A78",
+  "colorHighlight": "#FFFFFF",
+  "backgroundColor": "#05040F",
+  "nodeSize": 2.2,
+  "tagNodeSize": 1,
+  "attachmentNodeSize": 1.2,
+  "linkThickness": 0.6,
+  "nodeShape": "Sphere",
+  "tagShape": "Tetrahedron",
+  "attachmentShape": "Cube",
+  "showNodeLabels": true,
+  "labelDistance": 220,
+  "labelFadeThreshold": 0.8,
+  "labelTextSize": 2.5,
+  "labelTextColorLight": "#FFFFFF",
+  "labelTextColorDark": "#FFFFFF",
+  "labelBackgroundColor": "#000000",
+  "labelBackgroundOpacity": 0.35,
+  "labelOcclusion": false,
+  "useKeyboardControls": true,
+  "keyboardMoveSpeed": 2,
+  "zoomOnClick": true,
+  "rotateSpeed": 1,
+  "panSpeed": 1,
+  "zoomSpeed": 1,
+  "centerForce": 0.12,
+  "repelForce": 14,
+  "linkForce": 0.02
+}

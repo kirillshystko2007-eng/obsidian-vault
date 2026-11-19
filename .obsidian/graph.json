@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "-file:.canvas",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:\"00 Главная\"",
+      "color": {
+        "a": 1,
+        "rgb": 16769357
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
+      "color": {
+        "a": 1,
+        "rgb": 13041469
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
+      "color": {
+        "a": 1,
+        "rgb": 58819
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
+      "color": {
+        "a": 1,
+        "rgb": 4063115
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
+      "color": {
+        "a": 1,
+        "rgb": 10190079
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
+      "color": {
+        "a": 1,
+        "rgb": 3111935
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
+      "color": {
+        "a": 1,
+        "rgb": 8255999
+      }
+    },
+    {
+      "query": "path:\"Sunset driver/Версии\"",
+      "color": {
+        "a": 1,
+        "rgb": 16736210
+      }
+    },
+    {
+      "query": "path:\"Sunset driver/Системы\"",
+      "color": {
+        "a": 1,
+        "rgb": 16747069
+      }
+    },
+    {
+      "query": "path:\"Sunset driver\"",
+      "color": {
+        "a": 1,
+        "rgb": 16727386
+      }
+    },
+    {
+      "query": "path:\"Прочее\"",
+      "color": {
+        "a": 1,
+        "rgb": 9080744
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.35,
+  "lineSizeMultiplier": 0.7,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 0.85,
+  "linkDistance": 180,
+  "scale": 0.321336386050357,
+  "close": false
+}

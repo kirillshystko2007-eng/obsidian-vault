@@ -1,0 +1,907 @@
+{
+	"nodes": [
+		{
+			"id": "g-world",
+			"type": "group",
+			"label": "МИР",
+			"x": -1140,
+			"y": -760,
+			"width": 2200,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "g-core",
+			"type": "group",
+			"label": "ЯДРО",
+			"x": -1140,
+			"y": -260,
+			"width": 880,
+			"height": 820,
+			"color": "5"
+		},
+		{
+			"id": "g-vis",
+			"type": "group",
+			"label": "КАРТИНКА",
+			"x": 180,
+			"y": -260,
+			"width": 880,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "g-snd",
+			"type": "group",
+			"label": "ЗВУК",
+			"x": -260,
+			"y": 240,
+			"width": 440,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "g-shell",
+			"type": "group",
+			"label": "ОБОЛОЧКА",
+			"x": 180,
+			"y": 240,
+			"width": 880,
+			"height": 820,
+			"color": "2"
+		},
+		{
+			"id": "n06",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 06 - Сегменты и биомы.md",
+			"x": -1100,
+			"y": -720,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n07",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 07 - Трасса.md",
+			"x": -660,
+			"y": -720,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n08",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 08 - Чанки и ландшафт.md",
+			"x": -220,
+			"y": -720,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n09",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 09 - Трафик.md",
+			"x": 220,
+			"y": -720,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n10",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 10 - Кристаллы и Цветная волна.md",
+			"x": 660,
+			"y": -720,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n02",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 02 - Игровой цикл.md",
+			"x": -1100,
+			"y": -220,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n03",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 03 - Состояния игры.md",
+			"x": -660,
+			"y": -220,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n04",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 04 - Управление.md",
+			"x": -1100,
+			"y": 280,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n05",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 05 - Физика мотоцикла.md",
+			"x": -660,
+			"y": 280,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n00",
+			"type": "file",
+			"file": "Sunset driver/MM 00 - Обзор.md",
+			"x": -220,
+			"y": -220,
+			"width": 360,
+			"height": 240
+		},
+		{
+			"id": "n11",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 11 - Настроения и погода.md",
+			"x": 220,
+			"y": -220,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n12",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 12 - Рендер и дизеринг.md",
+			"x": 660,
+			"y": -220,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n13",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 13 - Музыка и звук.md",
+			"x": -220,
+			"y": 280,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n14",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 14 - Интерфейс и язык.md",
+			"x": 220,
+			"y": 280,
+			"width": 360,
+			"height": 240,
+			"color": "2"
+		},
+		{
+			"id": "n15",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 15 - Сохранение.md",
+			"x": 660,
+			"y": 280,
+			"width": 360,
+			"height": 240,
+			"color": "2"
+		},
+		{
+			"id": "n01",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 01 - Файлы и сборка.md",
+			"x": 220,
+			"y": 780,
+			"width": 360,
+			"height": 240,
+			"color": "2"
+		},
+		{
+			"id": "n16",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 16 - Отладка.md",
+			"x": 660,
+			"y": 780,
+			"width": 360,
+			"height": 240,
+			"color": "2"
+		},
+		{
+			"id": "n17",
+			"type": "file",
+			"file": "Sunset driver/Системы/MM 17 - Находки и идеи.md",
+			"x": -660,
+			"y": 780,
+			"width": 800,
+			"height": 300,
+			"color": "1"
+		},
+		{
+			"id": "g-ver",
+			"type": "group",
+			"label": "ВЕРСИИ 0.6–1.7 + Unity",
+			"x": -1140,
+			"y": 1200,
+			"width": 2200,
+			"height": 2140,
+			"color": "3"
+		},
+		{
+			"id": "n18",
+			"type": "file",
+			"file": "Sunset driver/MM 18 - История версий.md",
+			"x": -1100,
+			"y": 1240,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n20",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 20 - Банда байкеров.md",
+			"x": -660,
+			"y": 1240,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n21",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 21 - Апокалипсис и стадии.md",
+			"x": -220,
+			"y": 1240,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n23",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 23 - Байкерская музыка.md",
+			"x": 220,
+			"y": 1240,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n24",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 24 - Новые локации и эффекты.md",
+			"x": 660,
+			"y": 1240,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n33",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 33 - Улучшения и добавления 0.8.13.md",
+			"x": 660,
+			"y": 1840,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n34",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 34 - Продолжить за кристаллы и песня Мясника.md",
+			"x": -1100,
+			"y": 2140,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n35",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 35 - Настройки графики и предупреждение.md",
+			"x": -660,
+			"y": 2140,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n36",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 36 - Фикс перехода в фазу 3.md",
+			"x": -220,
+			"y": 2140,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n37",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 37 - Переименование в Sunset_driver и камень в каньоне.md",
+			"x": 220,
+			"y": 2140,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n38",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 38 - Ghost Driver и версия 1.0.0.md",
+			"x": 660,
+			"y": 2140,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n39",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 39 - Детальное окружение и новые скины 1.1.0.md",
+			"x": -1100,
+			"y": 2440,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n40",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 40 - Музыка фаз и кнопка кристаллов 1.1.2.md",
+			"x": -660,
+			"y": 2440,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n41",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 41 - Новые локации и скины с эффектами 1.2.0.md",
+			"x": -220,
+			"y": 2440,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n42",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 42 - Положения камеры 1.2.1.md",
+			"x": 220,
+			"y": 2440,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n43",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 43 - Ощущение скорости 1.2.2.md",
+			"x": 660,
+			"y": 2440,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n44",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 44 - Качество эффектов скорости 1.2.3.md",
+			"x": -1100,
+			"y": 2740,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n45",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 45 - Громче мотор в Овердрайве+.md",
+			"x": -660,
+			"y": 2740,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n46",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 46 - Цели 1.3.0 развилки порталы гараж оружие.md",
+			"x": -220,
+			"y": 2740,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n47",
+			"type": "file",
+			"file": "Sunset driver/Sunset driver goals. 1.3.5+.md",
+			"x": 220,
+			"y": 2740,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n48",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 47 - Перенос на Unity, этап 1.md",
+			"x": 660,
+			"y": 2740,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n55",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 55 - 1.7.0 Дуэль, боссы, трюки, достижения.md",
+			"x": -220,
+			"y": 3060,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n56",
+			"type": "file",
+			"file": "Sunset driver/Sunset driver goals 1.7.md",
+			"x": 220,
+			"y": 3060,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n32",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 32 - Независимый аудит 0.8.12.md",
+			"x": 220,
+			"y": 1840,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n31",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 31 - Записанные моторы банды.md",
+			"x": -220,
+			"y": 1840,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n30",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 30 - Музыка Retro и Futuristic, овердрайв.md",
+			"x": -660,
+			"y": 1840,
+			"width": 360,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "n29",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 29 - Сложность Обычный и Хард.md",
+			"x": -1100,
+			"y": 1840,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n28",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 28 - Переименование в SunWave_rider.md",
+			"x": 660,
+			"y": 1540,
+			"width": 360,
+			"height": 240,
+			"color": "4"
+		},
+		{
+			"id": "n27",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 27 - Режимы, джукбокс, скины 0.8.4.md",
+			"x": 220,
+			"y": 1540,
+			"width": 360,
+			"height": 240,
+			"color": "6"
+		},
+		{
+			"id": "n26",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 26 - Апокалипсис 3 фазы.md",
+			"x": -220,
+			"y": 1540,
+			"width": 360,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "n25",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 25 - Low-poly 0.8 и настройки.md",
+			"x": -660,
+			"y": 1540,
+			"width": 360,
+			"height": 240,
+			"color": "5"
+		},
+		{
+			"id": "n22",
+			"type": "file",
+			"file": "Sunset driver/Версии/MM 22 - Сборки ПК мобилка exe.md",
+			"x": -1100,
+			"y": 1540,
+			"width": 360,
+			"height": 240,
+			"color": "2"
+		}
+	],
+	"edges": [
+		{
+			"id": "e1",
+			"fromNode": "n02",
+			"toNode": "n05",
+			"label": "каждый кадр",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "e2",
+			"fromNode": "n02",
+			"toNode": "n08",
+			"label": "World.update",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e3",
+			"fromNode": "n02",
+			"toNode": "n09",
+			"label": "Traffic.update",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e4",
+			"fromNode": "n02",
+			"toNode": "n10",
+			"label": "Orbs.update",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e5",
+			"fromNode": "n02",
+			"toNode": "n11",
+			"label": "applyMood",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e6",
+			"fromNode": "n02",
+			"toNode": "n12",
+			"label": "2 прохода",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e7",
+			"fromNode": "n02",
+			"toNode": "n13",
+			"label": "audioTick, beat",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e8",
+			"fromNode": "n04",
+			"toNode": "n05",
+			"label": "ввод",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e9",
+			"fromNode": "n06",
+			"toNode": "n07",
+			"label": "параметры поворотов",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e10",
+			"fromNode": "n07",
+			"toNode": "n08",
+			"label": "точки дороги",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e11",
+			"fromNode": "n06",
+			"toNode": "n11",
+			"label": "настроение зоны",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e12",
+			"fromNode": "n06",
+			"toNode": "n13",
+			"label": "трек зоны",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "e13",
+			"fromNode": "n06",
+			"toNode": "n09",
+			"label": "плотность",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e14",
+			"fromNode": "n08",
+			"toNode": "n10",
+			"label": "spawnOrbs",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e15",
+			"fromNode": "n09",
+			"toNode": "n03",
+			"label": "авария",
+			"fromSide": "left",
+			"toSide": "right"
+		},
+		{
+			"id": "e16",
+			"fromNode": "n10",
+			"toNode": "n12",
+			"label": "тон волны",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "e17",
+			"fromNode": "n10",
+			"toNode": "n13",
+			"label": "колокольчик, энергия 4",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "e18",
+			"fromNode": "n11",
+			"toNode": "n12",
+			"label": "свет, туман",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e19",
+			"fromNode": "n03",
+			"toNode": "n14",
+			"label": "экраны",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e20",
+			"fromNode": "n14",
+			"toNode": "n15",
+			"label": "опции, рекорд",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "e21",
+			"fromNode": "n05",
+			"toNode": "n07",
+			"label": "Track.frame",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e22",
+			"fromNode": "n00",
+			"toNode": "n17",
+			"label": "итог",
+			"color": "1",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v1",
+			"fromNode": "n00",
+			"toNode": "n18",
+			"label": "0.5 → 0.7",
+			"color": "3",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v2",
+			"fromNode": "n18",
+			"toNode": "n20",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "v3",
+			"fromNode": "n18",
+			"toNode": "n22",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v4",
+			"fromNode": "n18",
+			"toNode": "n24",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "v5",
+			"fromNode": "n10",
+			"toNode": "n21",
+			"label": "100 кристаллов (Гонка)",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v6",
+			"fromNode": "n21",
+			"toNode": "n20",
+			"label": "стадия 1: в небо · 2+: по игроку",
+			"color": "1",
+			"fromSide": "left",
+			"toSide": "right"
+		},
+		{
+			"id": "v7",
+			"fromNode": "n20",
+			"toNode": "n23",
+			"label": "тема банды, смена каждые 16 тактов",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "v8",
+			"fromNode": "n23",
+			"toNode": "n13",
+			"label": "овердрайв > банда > локация",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "v9",
+			"fromNode": "n24",
+			"toNode": "n06",
+			"label": "+5 локаций",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "v10",
+			"fromNode": "n24",
+			"toNode": "n11",
+			"label": "гроза, сияние",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "v11",
+			"fromNode": "n22",
+			"toNode": "n12",
+			"label": "PIX_TARGET: 270 / 420",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "v12",
+			"fromNode": "n22",
+			"toNode": "n01",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "v13",
+			"fromNode": "n20",
+			"toNode": "n09",
+			"label": "объезжают машины",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "v29",
+			"fromNode": "n26",
+			"toNode": "n29",
+			"label": "метеориты: Обычный ½ · Хард ×1",
+			"color": "1",
+			"fromSide": "left",
+			"toSide": "right"
+		},
+		{
+			"id": "v30",
+			"fromNode": "n13",
+			"toNode": "n30",
+			"label": "Retro = синт · Futuristic = mp3; овердрайв = 4 трека",
+			"color": "3",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v31",
+			"fromNode": "n20",
+			"toNode": "n31",
+			"label": "моторы банды — записи (sfx/gang)",
+			"color": "3",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v32",
+			"fromNode": "n17",
+			"toNode": "n32",
+			"label": "аудит 0.8.12: что пофиксить / добавить / убрать",
+			"color": "1",
+			"fromSide": "bottom",
+			"toSide": "top"
+		},
+		{
+			"id": "v33",
+			"fromNode": "n32",
+			"toNode": "n33",
+			"label": "сделано в 0.8.13 (кроме старта с фазы)",
+			"color": "4",
+			"fromSide": "right",
+			"toSide": "left"
+		},
+		{
+			"id": "v46",
+			"fromNode": "n47",
+			"toNode": "n46",
+			"label": "все 9 целей сделаны в 1.3.0",
+			"color": "4",
+			"fromSide": "left",
+			"toSide": "right"
+		},
+		{
+			"id": "v47",
+			"fromNode": "n46",
+			"toNode": "n48",
+			"label": "перенос на Unity (этапы 1–2 готовы)",
+			"color": "5",
+			"fromSide": "right",
+			"toSide": "left"
+		}
+	]
+}

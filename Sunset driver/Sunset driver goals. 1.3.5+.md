@@ -1,0 +1,3 @@
+when player choose way to drive fix the textures better. path change is an event and i want it to be 2.5x rarer then now.change portals look. it should look like a white crack and player able to enter it only after using overfrive+ button in time. the second before enter. button will glow red when its time to use to enter the portal. when player destroy this crack he is teleporting to locations. but before that player will drive a second in absolute void and will drive into another crack that leads to location. if player miss this chance next portal could be opened in 10 minutes and less (no timer for player). delete baikers theme playlist.
+
+

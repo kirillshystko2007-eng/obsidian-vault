@@ -1,0 +1,570 @@
+{
+  "enableFeatures": {
+    "graph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": false,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": true,
+      "folders": true,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": false,
+      "elements-stats": false,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    },
+    "localgraph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": false,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": true,
+      "folders": false,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": false,
+      "elements-stats": false,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    }
+  },
+  "interactiveSettings": {
+    "tag": {
+      "colormap": "hsv",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "link": {
+      "colormap": "rainbow",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "folder": {
+      "colormap": "winter",
+      "colors": [
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Системы",
+          "color": "#2F7BFF",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Design",
+          "color": "#9B7CFF",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Goals",
+          "color": "#00E5C3",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Reports",
+          "color": "#3DFF8B",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS",
+          "color": "#7DF9FF",
+          "recursive": false
+        },
+        {
+          "type": "Sunset driver/Версии",
+          "color": "#FF5FD2",
+          "recursive": false
+        },
+        {
+          "type": "Sunset driver/Системы",
+          "color": "#FF8A3D",
+          "recursive": false
+        },
+        {
+          "type": "Sunset driver",
+          "color": "#FF3D5A",
+          "recursive": false
+        },
+        {
+          "type": "Прочее",
+          "color": "#8A8FA8",
+          "recursive": false
+        }
+      ],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "img$",
+        "flags": ""
+      },
+      "noneType": "/",
+      "showOnGraph": true,
+      "enableByDefault": true
+    }
+  },
+  "additionalProperties": {},
+  "backupGraphOptions": {
+    "collapse-filter": true,
+    "search": "-file:.canvas",
+    "showTags": false,
+    "showAttachments": false,
+    "hideUnresolved": true,
+    "showOrphans": true,
+    "collapse-color-groups": false,
+    "colorGroups": [
+      {
+        "query": "file:\"00 Главная\"",
+        "color": {
+          "a": 1,
+          "rgb": 16769357
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
+        "color": {
+          "a": 1,
+          "rgb": 13041469
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
+        "color": {
+          "a": 1,
+          "rgb": 58819
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
+        "color": {
+          "a": 1,
+          "rgb": 4063115
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
+        "color": {
+          "a": 1,
+          "rgb": 10190079
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
+        "color": {
+          "a": 1,
+          "rgb": 3111935
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
+        "color": {
+          "a": 1,
+          "rgb": 8255999
+        }
+      },
+      {
+        "query": "path:\"Sunset driver/Версии\"",
+        "color": {
+          "a": 1,
+          "rgb": 16736210
+        }
+      },
+      {
+        "query": "path:\"Sunset driver/Системы\"",
+        "color": {
+          "a": 1,
+          "rgb": 16747069
+        }
+      },
+      {
+        "query": "path:\"Sunset driver\"",
+        "color": {
+          "a": 1,
+          "rgb": 16727386
+        }
+      },
+      {
+        "query": "path:\"Прочее\"",
+        "color": {
+          "a": 1,
+          "rgb": 9080744
+        }
+      }
+    ],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": -0.6,
+    "nodeSizeMultiplier": 1.35,
+    "lineSizeMultiplier": 0.7,
+    "collapse-forces": false,
+    "centerStrength": 0.45,
+    "repelStrength": 12,
+    "linkStrength": 0.85,
+    "linkDistance": 180,
+    "scale": 0.321336386050357,
+    "close": false
+  },
+  "openInNewTab": false,
+  "canonicalizePropertiesWithDataview": true,
+  "states": [
+    {
+      "id": "default-vault",
+      "name": "Default state",
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "file:\"00 Главная\"",
+            "color": {
+              "a": 1,
+              "rgb": 16769357
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
+            "color": {
+              "a": 1,
+              "rgb": 13041469
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
+            "color": {
+              "a": 1,
+              "rgb": 58819
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
+            "color": {
+              "a": 1,
+              "rgb": 4063115
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
+            "color": {
+              "a": 1,
+              "rgb": 10190079
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
+            "color": {
+              "a": 1,
+              "rgb": 3111935
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
+            "color": {
+              "a": 1,
+              "rgb": 8255999
+            }
+          },
+          {
+            "query": "path:\"Sunset driver/Версии\"",
+            "color": {
+              "a": 1,
+              "rgb": 16736210
+            }
+          },
+          {
+            "query": "path:\"Sunset driver/Системы\"",
+            "color": {
+              "a": 1,
+              "rgb": 16747069
+            }
+          },
+          {
+            "query": "path:\"Sunset driver\"",
+            "color": {
+              "a": 1,
+              "rgb": 16727386
+            }
+          },
+          {
+            "query": "path:\"Прочее\"",
+            "color": {
+              "a": 1,
+              "rgb": 9080744
+            }
+          }
+        ],
+        "search": "-file:.canvas",
+        "hideUnresolved": true,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "localBacklinks": true,
+        "localForelinks": true,
+        "localInterlinks": false,
+        "localJumps": 1,
+        "lineSizeMultiplier": 0.7,
+        "nodeSizeMultiplier": 1.35,
+        "showArrow": false,
+        "textFadeMultiplier": -0.6,
+        "centerStrength": 0.45,
+        "linkDistance": 180,
+        "linkStrength": 0.85,
+        "repelStrength": 12
+      },
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
+    }
+  ],
+  "startingStateID": "default-vault",
+  "syncDefaultState": false,
+  "saveConfigsWithState": false,
+  "customColorMaps": {},
+  "imageProperties": [
+    "image"
+  ],
+  "borderFactor": 0.06,
+  "allowExternalImages": false,
+  "allowExternalLocalImages": false,
+  "nodesSizeProperties": [
+    ""
+  ],
+  "nodesSizeFunction": "default",
+  "nodesSizeRange": {
+    "min": 0.5,
+    "max": 1.5
+  },
+  "nodesColorColormap": "YlOrRd",
+  "nodesColorFunction": "default",
+  "graphStatsDirection": "normal",
+  "linksSizeFunction": "default",
+  "linksColorColormap": "YlOrRd",
+  "linksColorFunction": "default",
+  "recomputeStatsOnGraphChange": false,
+  "zoomFactor": 2,
+  "focusScaleFactor": 1.8,
+  "highlightOpenNodes": false,
+  "highlightSearchResults": false,
+  "maxNodes": 20,
+  "delay": 500,
+  "revertAction": false,
+  "enableCSS": false,
+  "cssSnippetFilename": "",
+  "shapeQueries": {
+    "circle": {
+      "combinationLogic": "AND",
+      "index": 0,
+      "rules": []
+    },
+    "square": {
+      "combinationLogic": "AND",
+      "index": 1,
+      "rules": []
+    },
+    "triangle": {
+      "combinationLogic": "AND",
+      "index": 2,
+      "rules": []
+    },
+    "diamond": {
+      "combinationLogic": "AND",
+      "index": 3,
+      "rules": []
+    },
+    "pentagon": {
+      "combinationLogic": "AND",
+      "index": 4,
+      "rules": []
+    },
+    "hexagon": {
+      "combinationLogic": "AND",
+      "index": 5,
+      "rules": []
+    },
+    "octagon": {
+      "combinationLogic": "AND",
+      "index": 6,
+      "rules": []
+    },
+    "decagon": {
+      "combinationLogic": "AND",
+      "index": 7,
+      "rules": []
+    },
+    "star4": {
+      "combinationLogic": "AND",
+      "index": 8,
+      "rules": []
+    },
+    "star5": {
+      "combinationLogic": "AND",
+      "index": 9,
+      "rules": []
+    },
+    "star6": {
+      "combinationLogic": "AND",
+      "index": 10,
+      "rules": []
+    },
+    "star8": {
+      "combinationLogic": "AND",
+      "index": 11,
+      "rules": []
+    },
+    "star10": {
+      "combinationLogic": "AND",
+      "index": 12,
+      "rules": []
+    }
+  },
+  "colorBasedOnDepth": false,
+  "depthColormap": "rainbow",
+  "currentNode": {
+    "useColor": false,
+    "color": "#000000",
+    "size": 100,
+    "shape": "circle"
+  },
+  "fadeOnDisable": false,
+  "borderUnresolved": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": true,
+  "animationSpeedForDots": 0.6,
+  "interactivesBrightness": {
+    "light": 1,
+    "dark": 1
+  },
+  "fadeInElements": true,
+  "externalLinks": "none",
+  "externalLinksProperties": [
+    "url"
+  ],
+  "externalLinkOpenMode": "note",
+  "showPinIcon": true,
+  "allowMultipleLinkTypes": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "excludedSourcesFolder": [],
+  "excludedTargetsFolder": [],
+  "curvedLinks": true,
+  "curvedFactor": 0.6,
+  "outlineLinks": false,
+  "displayLinkTypeLabel": false,
+  "colorLinkTypeLabel": false,
+  "noLineHighlight": false,
+  "folderShowFullPath": false,
+  "invertArrows": false,
+  "flatArrows": false,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "numberOfCharacters": null,
+  "ellipsis": "…",
+  "showOnlyFileName": false,
+  "noExtension": false,
+  "usePropertiesForName": [],
+  "addBackgroundToName": false,
+  "nameVerticalOffset": 0,
+  "dynamicVerticalOffset": false,
+  "showNamesWhenNeighborHighlighted": false,
+  "iconProperties": [
+    ""
+  ],
+  "usePluginForIcon": true,
+  "usePluginForIconColor": true,
+  "useParentIcon": false,
+  "backgroundOpacityWithIcon": 0,
+  "useIconColorForBackgroud": true,
+  "borderWidthWithIcon": 0,
+  "layerProperties": [
+    "layer"
+  ],
+  "numberOfActiveLayers": 4,
+  "layersOrder": "ASC",
+  "displayLabelsInUI": true,
+  "nodesWithoutLayerOpacity": 0,
+  "useLayerCustomOpacity": true,
+  "layersCustomOpacity": {},
+  "layersLevels": {},
+  "defaultLevelForLayers": 0,
+  "horizontalLegend": false,
+  "useRadialMenu": false,
+  "radialMenuModifier": "Shift",
+  "pinNodeModifier": "Alt",
+  "useLeftClickToSelect": true,
+  "selectNodeModifier": "Shift",
+  "filterAbstractFiles": [],
+  "ignoreInlineLinks": false,
+  "collapseState": true,
+  "collapseLegend": true,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": true,
+    "links": true,
+    "arrows": true,
+    "folders": true,
+    "images": true,
+    "icons": true,
+    "focus": true,
+    "shapes": true,
+    "layers": true,
+    "elements-stats": true,
+    "names": true,
+    "zoom": true,
+    "local-graph": true,
+    "display": true,
+    "filter": true,
+    "inputs": true,
+    "performances": true,
+    "beta": true
+  },
+  "selectionMode": "replace",
+  "exportSVGOptions": {
+    "asImage": true,
+    "onlyVisibleArea": false,
+    "showNodeNames": true,
+    "useCurvedLinks": false,
+    "useModifiedArrows": true,
+    "useNodesShapes": false,
+    "showArcs": false,
+    "showFolders": true,
+    "useModifiedNames": true,
+    "showIcons": false
+  },
+  "multipleNodesData": {}
+}

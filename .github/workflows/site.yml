@@ -1,0 +1,57 @@
+name: Сайт и граф хранилища
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  QUARTZ_REF: 7cfb079 # Quartz v5.1.0, pinned so a Quartz update can't break the site
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Хранилище
+        uses: actions/checkout@v6
+        with:
+          path: vault
+          fetch-depth: 0 # git history = note dates
+      - name: Quartz
+        run: |
+          git clone https://github.com/jackyzha0/quartz.git quartz
+          git -C quartz checkout "$QUARTZ_REF"
+          cp vault/.site/quartz.config.yaml vault/.site/package.json vault/.site/package-lock.json quartz/
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Сборка сайта
+        working-directory: quartz
+        run: |
+          npm ci --no-audit --no-fund
+          npx quartz plugin install
+          node ../vault/.site/prepare.mjs ../vault "${{ github.server_url }}/${{ github.repository }}"
+          npx quartz build -d ../vault -o public
+          cp -r ../vault/.site/cosmos public/cosmos
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,9 @@
+{
+  "id": "vault-cosmos",
+  "name": "Vault Cosmos",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Your vault as living 3D galaxies: folders orbit, links pulse, notes fire.",
+  "author": "Kira",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,2348 @@
+{
+	"nodes": [
+		{
+			"id": "a1c0rep0group0001",
+			"type": "group",
+			"x": 1100,
+			"y": 3020,
+			"width": 2300,
+			"height": 39040,
+			"color": "4",
+			"label": "ОТЧЁТЫ · СДЕЛАНО (со скриншотами)"
+		},
+		{
+			"id": "ba70c016855e45cc",
+			"type": "group",
+			"x": 1100,
+			"y": 1320,
+			"width": 1500,
+			"height": 1600,
+			"color": "3",
+			"label": "ОСТРОВ 2 · ЛОКАЦИИ И МИР"
+		},
+		{
+			"id": "f4a2619b18ab41a0",
+			"type": "group",
+			"x": 2700,
+			"y": 1220,
+			"width": 1360,
+			"height": 1470,
+			"color": "5",
+			"label": "ПОЕЗД 2 · ИНТЕРЬЕР"
+		},
+		{
+			"id": "0535016c92ed4f99",
+			"type": "group",
+			"x": 4260,
+			"y": 0,
+			"width": 1080,
+			"height": 1550,
+			"color": "6",
+			"label": "ИНТЕГРАЦИЯ · ОБЩИЙ РЕЙС"
+		},
+		{
+			"id": "fb6de56040764ac2",
+			"type": "group",
+			"x": 2700,
+			"y": 0,
+			"width": 1360,
+			"height": 1120,
+			"color": "4",
+			"label": "ПОЕЗД 1 · ВНЕШНИЙ СОСТАВ"
+		},
+		{
+			"id": "df55ff42b778496d",
+			"type": "group",
+			"x": 0,
+			"y": 0,
+			"width": 1020,
+			"height": 1250,
+			"color": "1",
+			"label": "ПОДГОТОВКА · ОБМЕР И МАРШРУТ"
+		},
+		{
+			"id": "651c9a7649e943b3",
+			"type": "group",
+			"x": 1100,
+			"y": 0,
+			"width": 1150,
+			"height": 920,
+			"color": "2",
+			"label": "ОСТРОВ 1 · ЗДАНИЯ"
+		},
+		{
+			"id": "37cc0cc547f14454",
+			"type": "group",
+			"x": 5480,
+			"y": 0,
+			"width": 900,
+			"height": 1050,
+			"color": "1",
+			"label": "ПРИЁМКА · ГОТОВНОСТЬ"
+		},
+		{
+			"id": "0403dd283dea457b",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_00_Roadmap.md",
+			"x": 100,
+			"y": 80,
+			"width": 860,
+			"height": 340,
+			"color": "1"
+		},
+		{
+			"id": "d7590967cfea4061",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_01_Baseline_Design.md",
+			"x": 100,
+			"y": 480,
+			"width": 860,
+			"height": 300,
+			"color": "1"
+		},
+		{
+			"id": "376543cec65145bf",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_15_Train_Route.md",
+			"x": 100,
+			"y": 840,
+			"width": 860,
+			"height": 410,
+			"color": "1"
+		},
+		{
+			"id": "839a5258011a47f9",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_10_FirstIsland_Buildings.md",
+			"x": 1220,
+			"y": 120,
+			"width": 900,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "8f0a3730ac394e3b",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_11_Building_Inventory.md",
+			"x": 1140,
+			"y": 520,
+			"width": 500,
+			"height": 310,
+			"color": "2"
+		},
+		{
+			"id": "28d729c2da2a4b60",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_12_Building_Standard.md",
+			"x": 1680,
+			"y": 520,
+			"width": 500,
+			"height": 310,
+			"color": "2"
+		},
+		{
+			"id": "5f2d892cb6ba4497",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_41_Dynamic_Rails.md",
+			"x": 2760,
+			"y": 520,
+			"width": 520,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "00c402843c3c4835",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_20_SecondIsland_Plan.md",
+			"x": 1180,
+			"y": 1420,
+			"width": 600,
+			"height": 310,
+			"color": "3"
+		},
+		{
+			"id": "44709d00095040e2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_21_Island_Masterplan.md",
+			"x": 1820,
+			"y": 1420,
+			"width": 670,
+			"height": 310,
+			"color": "3"
+		},
+		{
+			"id": "554a45d472194f9d",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_22_Location_Brief.md",
+			"x": 1180,
+			"y": 1800,
+			"width": 600,
+			"height": 310,
+			"color": "3"
+		},
+		{
+			"id": "a97e462e070c4c3f",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_30_SecondIsland_World.md",
+			"x": 1820,
+			"y": 1800,
+			"width": 670,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "1c084ddc927647d3",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_31_SecondIsland_Cities.md",
+			"x": 1140,
+			"y": 2210,
+			"width": 420,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "872059170a9c41f9",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_32_SecondIsland_Nature.md",
+			"x": 1580,
+			"y": 2210,
+			"width": 420,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "595f5b1da27d45c6",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_33_Location_Gameplay.md",
+			"x": 2020,
+			"y": 2210,
+			"width": 420,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "9976f43b6b984175",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_40_Train1_Exterior.md",
+			"x": 2820,
+			"y": 120,
+			"width": 1100,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "dd84a18178ab46b8",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_42_Pickup_Trip_Control.md",
+			"x": 3340,
+			"y": 520,
+			"width": 600,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "aa68cc7d16d64bb4",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_50_Train2_Interior.md",
+			"x": 2820,
+			"y": 1330,
+			"width": 1100,
+			"height": 320,
+			"color": "5"
+		},
+		{
+			"id": "3eb775d9582d4cae",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_51_Cabin_Layout.md",
+			"x": 2740,
+			"y": 1740,
+			"width": 400,
+			"height": 360,
+			"color": "5"
+		},
+		{
+			"id": "4a73ed1fed0f42ed",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_52_Boarding_Exit.md",
+			"x": 3160,
+			"y": 1740,
+			"width": 400,
+			"height": 360,
+			"color": "5"
+		},
+		{
+			"id": "1dfca4e3b1014cca",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_53_Journey_Operations.md",
+			"x": 3580,
+			"y": 1740,
+			"width": 400,
+			"height": 360,
+			"color": "5"
+		},
+		{
+			"id": "4c78917f77bc438a",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_60_Transport_Integration.md",
+			"x": 4380,
+			"y": 120,
+			"width": 850,
+			"height": 360,
+			"color": "6"
+		},
+		{
+			"id": "dd9ea0b386314b28",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_61_Travel_Service_Integration.md",
+			"x": 4290,
+			"y": 560,
+			"width": 440,
+			"height": 380,
+			"color": "6"
+		},
+		{
+			"id": "b8ae07aa938840ac",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_62_Recovery_and_Aborts.md",
+			"x": 4760,
+			"y": 560,
+			"width": 500,
+			"height": 380,
+			"color": "6"
+		},
+		{
+			"id": "4c6fe2b67cbc44d1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_70_Acceptance.md",
+			"x": 5580,
+			"y": 120,
+			"width": 700,
+			"height": 320,
+			"color": "1"
+		},
+		{
+			"id": "876d23ea7bbe4979",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Goals/PE_Goals_71_Review_Matrix.md",
+			"x": 5580,
+			"y": 520,
+			"width": 700,
+			"height": 420,
+			"color": "1"
+		},
+		{
+			"id": "b2d0des0group0001",
+			"type": "group",
+			"x": 6500,
+			"y": 0,
+			"width": 2900,
+			"height": 2040,
+			"color": "6",
+			"label": "ДИЗАЙН · ФАЗА 2 (игровой процесс, 2026-11-09)"
+		},
+		{
+			"id": "b2d0des0d00000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 00 — Видение и игровой цикл.md",
+			"x": 6560,
+			"y": 80,
+			"width": 1800,
+			"height": 560,
+			"color": "6"
+		},
+		{
+			"id": "b2d0des0d99000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 99 — Открытые вопросы.md",
+			"x": 8420,
+			"y": 80,
+			"width": 920,
+			"height": 560,
+			"color": "1"
+		},
+		{
+			"id": "b2d0des0g08000001",
+			"type": "text",
+			"text": "## G8 · Экстракция и смерть\nПоезд — единственный выход. Руки (4) при смерти → трофей на 5 мин, сумка (6) остаётся.\n`status: planned`",
+			"x": 6560,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0g09000001",
+			"type": "text",
+			"text": "## G9 · Сохранение\nDataStore v2: деньги, револьверы, сумка, ранг, задания. Антидюп.\n`status: planned`",
+			"x": 7020,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0g10000001",
+			"type": "text",
+			"text": "## G10 · PvP и вина\nЗдания безопасны; урон в городе → дебафф на следующий рейд (туман, −2–3 % скорости, фразы при убийстве).\n`status: planned`",
+			"x": 7480,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0g11000001",
+			"type": "text",
+			"text": "## G11 · Гильдия\nТаверна, линейные задания: охота, вывоз, разведка, оборона. Ранги.\n`status: planned`",
+			"x": 7940,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0g12000001",
+			"type": "text",
+			"text": "## G12 · Монстры\nНовые типы помимо зомби. Заражение не распространяется.\n`status: planned`",
+			"x": 8400,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0g13000001",
+			"type": "text",
+			"text": "## G13 · Тайник\nХранилище в городе, открывается с рангом **Серебро**.\n`status: done`\n✅ 2026-11-13: Серебро 8 / Золото 16 слотов, аренда $300",
+			"x": 8860,
+			"y": 720,
+			"width": 440,
+			"height": 220,
+			"color": "4"
+		},
+		{
+			"id": "b2d0des0d01000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 01 — Рейд и поезд-экстракция.md",
+			"x": 6560,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "b2d0des0d02000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 02 — Инвентарь, смерть и сохранение.md",
+			"x": 7020,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "b2d0des0d03000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 03 — PvP, безопасные зоны и вина.md",
+			"x": 7480,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "b2d0des0d04000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 04 — Гильдия и таверна.md",
+			"x": 7940,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "b2d0des0d05000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 05 — Монстры.md",
+			"x": 8400,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "b2d0des0d06000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 06 — Экономика и прогресс.md",
+			"x": 8860,
+			"y": 1360,
+			"width": 440,
+			"height": 620
+		},
+		{
+			"id": "c3e0des0g14000001",
+			"type": "text",
+			"text": "## Фаза 3 (план 2026-11-09)\nG14 гудок + часы ✅ · G15 атмосфера ✅ · G16 патроны и припасы ✅ · G17 ценности + скупщики ✅ · G18 отряд ✅ · G19 награда за убийцу ✅ · G20 события фронтира ✅",
+			"x": 6560,
+			"y": 2140,
+			"width": 2800,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0crowimg01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_CrowCreek_aerial.jpg",
+			"x": 1840,
+			"y": 3460,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0islimg001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_DevilsRefinery.jpg",
+			"x": 2620,
+			"y": 3700,
+			"width": 350,
+			"height": 159
+		},
+		{
+			"id": "a1c0rep0islandb01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-27–28 — Остров B, локации и лут.md",
+			"x": 2620,
+			"y": 3100,
+			"width": 720,
+			"height": 560,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0islimg002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_QuarantineCamp.jpg",
+			"x": 2990,
+			"y": 3700,
+			"width": 350,
+			"height": 159
+		},
+		{
+			"id": "a1c0rep0twostor01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — Двухэтажные дома Canyon Crossing.md",
+			"x": 1160,
+			"y": 5000,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0journal01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёты — журнал.md",
+			"x": 1160,
+			"y": 3100,
+			"width": 620,
+			"height": 300,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0g7acc0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-08 — G7, приёмка поезда (1 игрок).md",
+			"x": 1160,
+			"y": 9800,
+			"width": 1400,
+			"height": 740
+		},
+		{
+			"id": "a1c0rep0g7img0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-08_g7_cc_night_train.jpg",
+			"x": 2620,
+			"y": 9800,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "b2d0rep01109r0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — Прицел от 3-го лица, сумка, карманные часы.md",
+			"x": 1160,
+			"y": 10640,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "b2d0rep01109i0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_сумка_открыта.jpg",
+			"x": 2620,
+			"y": 10640,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "a1c0rep0train0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-08 — Поезда 1 и 2, рейс по расписанию.md",
+			"x": 1160,
+			"y": 8040,
+			"width": 620,
+			"height": 860,
+			"color": "5"
+		},
+		{
+			"id": "b2d0rep01109i0003",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_прицел_3е_лицо_после.jpg",
+			"x": 2620,
+			"y": 11360,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "a1c0rep0kfimg0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_FortCinder_restored.jpg",
+			"x": 1840,
+			"y": 6520,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0trimg0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-08_train1_cc_loco.jpg",
+			"x": 1840,
+			"y": 8040,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0trimg0002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-08_train2_card.jpg",
+			"x": 1840,
+			"y": 8420,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0g6int0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-08 — G6, связка поезда с TravelService и восстановление.md",
+			"x": 1160,
+			"y": 9000,
+			"width": 1400,
+			"height": 740
+		},
+		{
+			"id": "b2d0rep01109i0002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_часы_открыты.jpg",
+			"x": 2620,
+			"y": 11000,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "a1c0rep0tsimg0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_TwoStorey_north.jpg",
+			"x": 1840,
+			"y": 5000,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0tsimg0002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_TwoStorey_hotel_lobby.jpg",
+			"x": 1840,
+			"y": 5350,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0stimg0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_Station_exterior.jpg",
+			"x": 1840,
+			"y": 5760,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0kitfix001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — FrontierKit и группировка станции.md",
+			"x": 1160,
+			"y": 6520,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0tsimg0003",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_TwoStorey_boarding_stair.jpg",
+			"x": 2620,
+			"y": 5000,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0station01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — Станция Canyon Crossing.md",
+			"x": 1160,
+			"y": 5760,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0gms00001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — Gravesend Main Street, входы и интерьеры.md",
+			"x": 1160,
+			"y": 7280,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0stimg0002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_Station_hall_after.jpg",
+			"x": 1840,
+			"y": 6110,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0crowcrk01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — Crow Creek Station.md",
+			"x": 1160,
+			"y": 3460,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0crowimg02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_CrowCreek_station.jpg",
+			"x": 1840,
+			"y": 3810,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0islimg003",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_StillwaterLanding.jpg",
+			"x": 2620,
+			"y": 3930,
+			"width": 350,
+			"height": 159
+		},
+		{
+			"id": "a1c0rep0southrw01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-10-28 — Южный ряд Canyon Crossing.md",
+			"x": 1160,
+			"y": 4240,
+			"width": 620,
+			"height": 680,
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0srimg0001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_SouthRow_overview.jpg",
+			"x": 1840,
+			"y": 4240,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0srimg0002",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_SouthRow_gunsmith_in.jpg",
+			"x": 1840,
+			"y": 4590,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0srimg0003",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_SouthRow_livery_in.jpg",
+			"x": 2620,
+			"y": 4240,
+			"width": 720,
+			"height": 327
+		},
+		{
+			"id": "a1c0rep0islimg004",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-10-28_OutlawsRoost.jpg",
+			"x": 2990,
+			"y": 3930,
+			"width": 350,
+			"height": 159
+		},
+		{
+			"id": "f6a0sysgroup00001",
+			"type": "group",
+			"x": 6500,
+			"y": 2140,
+			"width": 2900,
+			"height": 760,
+			"label": "СИСТЕМЫ · ФАЗА 2 (заметки PE 28–34, сверены 2026-11-12)"
+		},
+		{
+			"id": "f6a0sys3300000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 33 - Рейд - сумка, могила, сохранение, вина.md",
+			"x": 6540,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys2800000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 28 - Прогрессия (гильдия и шериф).md",
+			"x": 6945,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys2900000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 29 - Боевые приёмы (толчок и уворот).md",
+			"x": 7350,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys3000000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 30 - Длинные ружья.md",
+			"x": 7755,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys3100000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 31 - Монстры.md",
+			"x": 8160,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys3200000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 32 - Бандиты.md",
+			"x": 8565,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "f6a0sys3400000001",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 34 - Эмоции, колесо B и доставание револьвера.md",
+			"x": 8970,
+			"y": 2200,
+			"width": 385,
+			"height": 660
+		},
+		{
+			"id": "a7b0rep1112g16r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-12 — G16, патронташ и припасы.md",
+			"x": 1160,
+			"y": 23820,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1112g17r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-12 — G17, ценности и скупщики.md",
+			"x": 1160,
+			"y": 24920,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1112batch1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-12 — Череп вины, ружья в продаже, винчестер, пропуска на 100 уровней.md",
+			"x": 1160,
+			"y": 26020,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113sfx01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — Звуки ElevenLabs.md",
+			"x": 1160,
+			"y": 27060,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113g18r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — G18, отряд.md",
+			"x": 1160,
+			"y": 28120,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113g13r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — G13, тайник гильдии.md",
+			"x": 1160,
+			"y": 29180,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113g19r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — G19, розыск убийц.md",
+			"x": 1160,
+			"y": 30240,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113tlg01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — Награды на телеграфе.md",
+			"x": 1160,
+			"y": 31300,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113drw01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — Звук Draw 3.md",
+			"x": 1160,
+			"y": 32400,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1113snd01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-13 — Песчаная буря по краю острова.md",
+			"x": 1160,
+			"y": 33500,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1114mon01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-14 — Монстры из Blender, вендиго, прыжки.md",
+			"x": 1160,
+			"y": 34600,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep1109g14r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G14, гудок поезда и часы.md",
+			"x": 1160,
+			"y": 16240,
+			"width": 1400,
+			"height": 900,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep1109g12r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G12, оборотни.md",
+			"x": 1160,
+			"y": 17220,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "d4f0rep1110g11r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-10 — Гильдия, 4 этажа.md",
+			"x": 1160,
+			"y": 18360,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "d4f0rep1110g11i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-10_гильдия4_фасад.jpg",
+			"x": 2620,
+			"y": 18360,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "d4f0rep1110g11i02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-10_гильдия4_лестница.jpg",
+			"x": 2620,
+			"y": 18720,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g10r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G10, PvP, безопасные здания и вина.md",
+			"x": 1160,
+			"y": 14000,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep1109g10i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_вина_уровень4_тёмный.jpg",
+			"x": 2620,
+			"y": 14000,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g10i02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_вина_уровень2.jpg",
+			"x": 2620,
+			"y": 14360,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g10i03",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_вина_safe_салун.jpg",
+			"x": 2620,
+			"y": 14720,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep01109g9r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G9, сохранение сумки и прогресса.md",
+			"x": 1160,
+			"y": 12880,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep1109g12i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_оборотень_сбоку.jpg",
+			"x": 2620,
+			"y": 17220,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g12i02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_оборотень_спереди.jpg",
+			"x": 2620,
+			"y": 17580,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "e5a0rep1112draw01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-12 — Анимации доставания револьвера (Draw 2, Draw 3, вращение).md",
+			"x": 1160,
+			"y": 19480,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep01109g8r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G8, могила и правило смерти.md",
+			"x": 1160,
+			"y": 11760,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep01109g8i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_могила_у_ручья.jpg",
+			"x": 2620,
+			"y": 11760,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep01109g8i02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_могила_список.jpg",
+			"x": 2620,
+			"y": 12120,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep01109g8i03",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_могила_город.jpg",
+			"x": 2620,
+			"y": 12480,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g11r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-09 — G11, здание гильдии-таверны.md",
+			"x": 1160,
+			"y": 15120,
+			"width": 1400,
+			"height": 1040,
+			"color": "6"
+		},
+		{
+			"id": "f6a0rep1111prog01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-10–11 — Прогрессия, гильдия и шериф.md",
+			"x": 1160,
+			"y": 20560,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "f6a0rep1111part21",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-11 — Толчок, уворот, ружья, монстры, бандиты.md",
+			"x": 1160,
+			"y": 21640,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "c3e0rep1109g11i03",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_гильдия_доска_контрактов.jpg",
+			"x": 2620,
+			"y": 15840,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g14i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_часы_у_иконки_боя.jpg",
+			"x": 2620,
+			"y": 16240,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g11i01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_гильдия_фасад.jpg",
+			"x": 2620,
+			"y": 15120,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "c3e0rep1109g11i02",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/img/2026-11-09_гильдия_зал.jpg",
+			"x": 2620,
+			"y": 15480,
+			"width": 720,
+			"height": 316
+		},
+		{
+			"id": "a7b0rep1112g15r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-12 — G15, атмосфера и короче уворот.md",
+			"x": 1160,
+			"y": 22720,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1117gfx01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-17 — Стрельба, эффекты.md",
+			"x": 1160,
+			"y": 35700,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1117g20r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-17 — G20, события фронтира.md",
+			"x": 1160,
+			"y": 36800,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1117crd01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-17 — Карты культиста и особые награды.md",
+			"x": 1160,
+			"y": 37900,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0phase4goals01",
+			"type": "text",
+			"text": "## Фаза 4 (записана 2026-11-17)\nG21 публикация анимаций · G22 обход острова B (закрыть G3) · G23 здания Canyon Crossing (закрыть G1) · G24 групповая приёмка на 2+ клиентах · G25 баланс карт и экономики\n\nПодробно: [[PE_Goals_00_Roadmap]] → «Фаза 4»",
+			"x": 6560,
+			"y": 2420,
+			"width": 2800,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "a7b0des07card01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 07 — Карты культиста и особые награды пропусков.md",
+			"x": -440,
+			"y": 37900,
+			"width": 1400,
+			"height": 980,
+			"color": "5"
+		},
+		{
+			"id": "a7b0rep1118g21r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — G21, публикация анимаций.md",
+			"x": 1160,
+			"y": 38940,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118g22r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — G22, обход острова B.md",
+			"x": 1160,
+			"y": 39980,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118g26r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — G26, быстрые правки.md",
+			"x": 1160,
+			"y": 41020,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118g34r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — G34, эмбиент Каньон-Кроссинга.md",
+			"x": 1160,
+			"y": 42100,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118sandr1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — Песчаная буря на обоих островах.md",
+			"x": 1160,
+			"y": 43160,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118dfamb1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — G34, эмбиент локаций острова B.md",
+			"x": 1160,
+			"y": 44220,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		},
+		{
+			"id": "a7b0rep1118rain1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-18 — Гроза и дождь.md",
+			"x": 1160,
+			"y": 45280,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
+		}
+	],
+	"edges": [
+		{
+			"id": "3ae7c9e855d747e1",
+			"fromNode": "0403dd283dea457b",
+			"fromSide": "right",
+			"toNode": "d7590967cfea4061",
+			"toSide": "left",
+			"color": "5",
+			"label": "планирование"
+		},
+		{
+			"id": "ef99a6a2aebe41ff",
+			"fromNode": "d7590967cfea4061",
+			"fromSide": "right",
+			"toNode": "839a5258011a47f9",
+			"toSide": "left",
+			"color": "5",
+			"label": "старт"
+		},
+		{
+			"id": "4b263b3d7b824f27",
+			"fromNode": "d7590967cfea4061",
+			"fromSide": "right",
+			"toNode": "00c402843c3c4835",
+			"toSide": "left",
+			"color": "5",
+			"label": "старт"
+		},
+		{
+			"id": "f8d18257283a4579",
+			"fromNode": "d7590967cfea4061",
+			"fromSide": "right",
+			"toNode": "376543cec65145bf",
+			"toSide": "left",
+			"color": "5",
+			"label": "маршрут"
+		},
+		{
+			"id": "522656dae3da4d6b",
+			"fromNode": "839a5258011a47f9",
+			"fromSide": "right",
+			"toNode": "8f0a3730ac394e3b",
+			"toSide": "left",
+			"color": "5",
+			"label": "инвентаризация"
+		},
+		{
+			"id": "412a3737c0424a90",
+			"fromNode": "839a5258011a47f9",
+			"fromSide": "right",
+			"toNode": "28d729c2da2a4b60",
+			"toSide": "left",
+			"color": "5",
+			"label": "единый стандарт"
+		},
+		{
+			"id": "2d3fafeb8bac4314",
+			"fromNode": "00c402843c3c4835",
+			"fromSide": "right",
+			"toNode": "44709d00095040e2",
+			"toSide": "left",
+			"color": "5",
+			"label": "план острова"
+		},
+		{
+			"id": "32c5a0bfbee54c4e",
+			"fromNode": "00c402843c3c4835",
+			"fromSide": "right",
+			"toNode": "554a45d472194f9d",
+			"toSide": "left",
+			"color": "5",
+			"label": "карточки POI"
+		},
+		{
+			"id": "fc31255fb52a46d1",
+			"fromNode": "44709d00095040e2",
+			"fromSide": "right",
+			"toNode": "a97e462e070c4c3f",
+			"toSide": "left",
+			"color": "5",
+			"label": "схема готова"
+		},
+		{
+			"id": "f00817430c3f4d7b",
+			"fromNode": "554a45d472194f9d",
+			"fromSide": "right",
+			"toNode": "a97e462e070c4c3f",
+			"toSide": "left",
+			"color": "5",
+			"label": "описаны локации"
+		},
+		{
+			"id": "038a7758d75748dd",
+			"fromNode": "a97e462e070c4c3f",
+			"fromSide": "right",
+			"toNode": "1c084ddc927647d3",
+			"toSide": "left",
+			"color": "5",
+			"label": "городские зоны"
+		},
+		{
+			"id": "55027c750a7b466f",
+			"fromNode": "a97e462e070c4c3f",
+			"fromSide": "right",
+			"toNode": "872059170a9c41f9",
+			"toSide": "left",
+			"color": "5",
+			"label": "биомы и рельеф"
+		},
+		{
+			"id": "6b3f7dca14d84ae5",
+			"fromNode": "a97e462e070c4c3f",
+			"fromSide": "right",
+			"toNode": "595f5b1da27d45c6",
+			"toSide": "left",
+			"color": "5",
+			"label": "игровой смысл"
+		},
+		{
+			"id": "028b015b59ce4680",
+			"fromNode": "d7590967cfea4061",
+			"fromSide": "right",
+			"toNode": "9976f43b6b984175",
+			"toSide": "left",
+			"color": "5",
+			"label": "проект состава"
+		},
+		{
+			"id": "bf0d964e91594109",
+			"fromNode": "376543cec65145bf",
+			"fromSide": "right",
+			"toNode": "9976f43b6b984175",
+			"toSide": "left",
+			"color": "5",
+			"label": "внешний путь"
+		},
+		{
+			"id": "0467d0d139414d05",
+			"fromNode": "9976f43b6b984175",
+			"fromSide": "right",
+			"toNode": "5f2d892cb6ba4497",
+			"toSide": "left",
+			"color": "5",
+			"label": "путь впереди / очистка сзади"
+		},
+		{
+			"id": "173c6c0f4e824b6a",
+			"fromNode": "9976f43b6b984175",
+			"fromSide": "right",
+			"toNode": "dd84a18178ab46b8",
+			"toSide": "left",
+			"color": "5",
+			"label": "безопасная посадка"
+		},
+		{
+			"id": "98b6a00f24e44197",
+			"fromNode": "d7590967cfea4061",
+			"fromSide": "right",
+			"toNode": "aa68cc7d16d64bb4",
+			"toSide": "left",
+			"color": "5",
+			"label": "проект салона"
+		},
+		{
+			"id": "d41fc8edc7aa4bb5",
+			"fromNode": "376543cec65145bf",
+			"fromSide": "right",
+			"toNode": "aa68cc7d16d64bb4",
+			"toSide": "left",
+			"color": "5",
+			"label": "синхронизация маршрута"
+		},
+		{
+			"id": "a29d832caaad478b",
+			"fromNode": "aa68cc7d16d64bb4",
+			"fromSide": "right",
+			"toNode": "3eb775d9582d4cae",
+			"toSide": "left",
+			"color": "5",
+			"label": "планировка"
+		},
+		{
+			"id": "ebae391925bb4e80",
+			"fromNode": "aa68cc7d16d64bb4",
+			"fromSide": "right",
+			"toNode": "4a73ed1fed0f42ed",
+			"toSide": "left",
+			"color": "5",
+			"label": "посадка и высадка"
+		},
+		{
+			"id": "81adbf7a02534266",
+			"fromNode": "aa68cc7d16d64bb4",
+			"fromSide": "right",
+			"toNode": "1dfca4e3b1014cca",
+			"toSide": "left",
+			"color": "5",
+			"label": "ожидание и состояния"
+		},
+		{
+			"id": "d8ff07d8a1d74ca8",
+			"fromNode": "00c402843c3c4835",
+			"fromSide": "right",
+			"toNode": "4c78917f77bc438a",
+			"toSide": "left",
+			"color": "5",
+			"label": "остров и станции"
+		},
+		{
+			"id": "e9acfb670c3e4221",
+			"fromNode": "a97e462e070c4c3f",
+			"fromSide": "right",
+			"toNode": "4c78917f77bc438a",
+			"toSide": "left",
+			"color": "5",
+			"label": "игровая зона готова"
+		},
+		{
+			"id": "624ff6695ee742dc",
+			"fromNode": "9976f43b6b984175",
+			"fromSide": "right",
+			"toNode": "4c78917f77bc438a",
+			"toSide": "left",
+			"color": "5",
+			"label": "движение и pickup"
+		},
+		{
+			"id": "5081937afb4641b0",
+			"fromNode": "aa68cc7d16d64bb4",
+			"fromSide": "right",
+			"toNode": "4c78917f77bc438a",
+			"toSide": "left",
+			"color": "5",
+			"label": "пассажирский интерьер"
+		},
+		{
+			"id": "9b136af8f1474525",
+			"fromNode": "376543cec65145bf",
+			"fromSide": "right",
+			"toNode": "4c78917f77bc438a",
+			"toSide": "left",
+			"color": "5",
+			"label": "общий TripId"
+		},
+		{
+			"id": "7886f452cfcb46fd",
+			"fromNode": "4c78917f77bc438a",
+			"fromSide": "right",
+			"toNode": "dd9ea0b386314b28",
+			"toSide": "left",
+			"color": "5",
+			"label": "согласовать TravelService"
+		},
+		{
+			"id": "7aff45ae9e254a4b",
+			"fromNode": "4c78917f77bc438a",
+			"fromSide": "right",
+			"toNode": "b8ae07aa938840ac",
+			"toSide": "left",
+			"color": "5",
+			"label": "отмена и восстановление"
+		},
+		{
+			"id": "29c1f462e67f4b97",
+			"fromNode": "839a5258011a47f9",
+			"fromSide": "right",
+			"toNode": "4c6fe2b67cbc44d1",
+			"toSide": "left",
+			"color": "5",
+			"label": "здания проверены"
+		},
+		{
+			"id": "77f8f4fdf00f4b1d",
+			"fromNode": "4c78917f77bc438a",
+			"fromSide": "right",
+			"toNode": "4c6fe2b67cbc44d1",
+			"toSide": "left",
+			"color": "5",
+			"label": "полный рейс"
+		},
+		{
+			"id": "e5b54b758b8e42f5",
+			"fromNode": "4c6fe2b67cbc44d1",
+			"fromSide": "right",
+			"toNode": "876d23ea7bbe4979",
+			"toSide": "left",
+			"color": "5",
+			"label": "сценарии проверки"
+		},
+		{
+			"id": "a1c0rep0edge00001",
+			"fromNode": "44709d00095040e2",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0islandb01",
+			"toSide": "top",
+			"color": "4",
+			"label": "сделано 10-27…28"
+		},
+		{
+			"id": "a1c0rep0edge00002",
+			"fromNode": "44709d00095040e2",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0crowcrk01",
+			"toSide": "top",
+			"color": "4",
+			"label": "сделано 10-28: Crow Creek"
+		},
+		{
+			"id": "a1c0rep0edge00003",
+			"fromNode": "a1c0rep0journal01",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0crowcrk01",
+			"toSide": "top",
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0edge00004",
+			"fromNode": "a1c0rep0journal01",
+			"fromSide": "right",
+			"toNode": "a1c0rep0islandb01",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "a1c0rep0edge00005",
+			"fromNode": "a1c0rep0crowcrk01",
+			"fromSide": "right",
+			"toNode": "a1c0rep0crowimg01",
+			"toSide": "left",
+			"color": "4",
+			"label": "доказательство"
+		},
+		{
+			"id": "a1c0rep0edge00006",
+			"fromNode": "a1c0rep0islandb01",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0islimg001",
+			"toSide": "top",
+			"color": "4",
+			"label": "доказательства"
+		},
+		{
+			"id": "a1c0rep0edge00007",
+			"fromNode": "44709d00095040e2",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0kitfix001",
+			"toSide": "top",
+			"color": "4",
+			"label": "10-28: остров B пересобран"
+		},
+		{
+			"id": "a1c0rep0edge00008",
+			"fromNode": "1c084ddc927647d3",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0gms00001",
+			"toSide": "top",
+			"color": "4",
+			"label": "10-28: Main Street — входы"
+		},
+		{
+			"id": "a1c0rep0edge00t01",
+			"fromNode": "aa68cc7d16d64bb4",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0train0001",
+			"toSide": "top",
+			"color": "5",
+			"label": "G4 сделано"
+		},
+		{
+			"id": "a1c0rep0edge00t02",
+			"fromNode": "9976f43b6b984175",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0train0001",
+			"toSide": "top",
+			"color": "4",
+			"label": "G5 сделано"
+		},
+		{
+			"id": "a1c0rep0edge00t03",
+			"fromNode": "a1c0rep0train0001",
+			"fromSide": "right",
+			"toNode": "a1c0rep0trimg0001",
+			"toSide": "left",
+			"color": "5",
+			"label": "доказательства"
+		},
+		{
+			"id": "a1c0rep0edge00t04",
+			"fromNode": "a1c0rep0train0001",
+			"fromSide": "right",
+			"toNode": "a1c0rep0trimg0002",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "a1c0rep0edge0g601",
+			"fromNode": "4c78917f77bc438a",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0g6int0001",
+			"toSide": "right",
+			"color": "4",
+			"label": "G6 сделано"
+		},
+		{
+			"id": "a1c0rep0edge0g701",
+			"fromNode": "4c6fe2b67cbc44d1",
+			"fromSide": "bottom",
+			"toNode": "a1c0rep0g7acc0001",
+			"toSide": "right",
+			"color": "1",
+			"label": "G7: 1 игрок ✓, группа ⛔"
+		},
+		{
+			"id": "a1c0rep0edge0g702",
+			"fromNode": "a1c0rep0g7acc0001",
+			"fromSide": "right",
+			"toNode": "a1c0rep0g7img0001",
+			"toSide": "left",
+			"color": "1",
+			"label": "доказательство"
+		},
+		{
+			"id": "b2d0edge000000001",
+			"fromNode": "4c6fe2b67cbc44d1",
+			"fromSide": "right",
+			"toNode": "b2d0des0d00000001",
+			"toSide": "left",
+			"color": "6",
+			"label": "Фаза 2"
+		},
+		{
+			"id": "b2d0edge000000002",
+			"fromNode": "b2d0des0g08000001",
+			"fromSide": "right",
+			"toNode": "b2d0des0g09000001",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "b2d0edge000000003",
+			"fromNode": "b2d0des0g09000001",
+			"fromSide": "top",
+			"toNode": "b2d0des0g11000001",
+			"toSide": "top",
+			"color": "4",
+			"label": "сохранение ранга"
+		},
+		{
+			"id": "b2d0edge000000004",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "top",
+			"toNode": "b2d0des0g13000001",
+			"toSide": "top",
+			"color": "4",
+			"label": "ранг Серебро"
+		},
+		{
+			"id": "b2d0edge000000005",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "left",
+			"toNode": "b2d0des0g11000001",
+			"toSide": "right",
+			"color": "4",
+			"label": "цели охоты"
+		},
+		{
+			"id": "b2d0edge000000006",
+			"fromNode": "b2d0des0g08000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d01000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000007",
+			"fromNode": "b2d0des0g09000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d02000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000008",
+			"fromNode": "b2d0des0g10000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d03000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000009",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d04000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000010",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d05000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000011",
+			"fromNode": "b2d0des0g13000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0d06000001",
+			"toSide": "top"
+		},
+		{
+			"id": "b2d0edge000000013",
+			"fromNode": "b2d0des0g09000001",
+			"fromSide": "left",
+			"toNode": "b2d0rep01109r0001",
+			"toSide": "right",
+			"color": "6",
+			"label": "сделано 11-09: сумка, часы, прицел"
+		},
+		{
+			"id": "b2d0edge000000014",
+			"fromNode": "b2d0rep01109r0001",
+			"fromSide": "right",
+			"toNode": "b2d0rep01109i0001",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "b2d0edge000000015",
+			"fromNode": "b2d0rep01109r0001",
+			"fromSide": "right",
+			"toNode": "b2d0rep01109i0002",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "b2d0edge000000016",
+			"fromNode": "b2d0rep01109r0001",
+			"fromSide": "right",
+			"toNode": "b2d0rep01109i0003",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "b2d0edge000000017",
+			"fromNode": "b2d0des0d00000001",
+			"fromSide": "bottom",
+			"toNode": "b2d0des0g08000001",
+			"toSide": "top",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g8000001",
+			"fromNode": "b2d0des0g08000001",
+			"fromSide": "left",
+			"toNode": "c3e0rep01109g8r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "сделано 11-09: могила, смерть, выход в рейде"
+		},
+		{
+			"id": "c3e0edge0g8000002",
+			"fromNode": "c3e0rep01109g8r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep01109g8i01",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "c3e0edge0g8000003",
+			"fromNode": "c3e0rep01109g8r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep01109g8i02",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g8000004",
+			"fromNode": "c3e0rep01109g8r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep01109g8i03",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g9000001",
+			"fromNode": "b2d0des0g09000001",
+			"fromSide": "bottom",
+			"toNode": "c3e0rep01109g9r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "сделано 11-09: v2, сумка, места, антидюп"
+		},
+		{
+			"id": "c3e0edge0g10000001",
+			"fromNode": "b2d0des0g10000001",
+			"fromSide": "bottom",
+			"toNode": "c3e0rep1109g10r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "сделано 11-09: SAFE, вина, тёмный туман"
+		},
+		{
+			"id": "c3e0edge0g10000002",
+			"fromNode": "c3e0rep1109g10r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g10i01",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "c3e0edge0g10000003",
+			"fromNode": "c3e0rep1109g10r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g10i02",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g10000004",
+			"fromNode": "c3e0rep1109g10r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g10i03",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g11000001",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "bottom",
+			"toNode": "c3e0rep1109g11r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "11-09: здание таверны"
+		},
+		{
+			"id": "c3e0edge0g11000002",
+			"fromNode": "c3e0rep1109g11r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g11i01",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "c3e0edge0g11000003",
+			"fromNode": "c3e0rep1109g11r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g11i02",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g11000004",
+			"fromNode": "c3e0rep1109g11r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g11i03",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g14000001",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "c3e0rep1109g14r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G14 сделано"
+		},
+		{
+			"id": "c3e0edge0g14000002",
+			"fromNode": "c3e0rep1109g14r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g14i01",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "c3e0edge0g12000001",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "bottom",
+			"toNode": "c3e0rep1109g12r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "оборотни 11-09"
+		},
+		{
+			"id": "c3e0edge0g12000002",
+			"fromNode": "c3e0rep1109g12r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g12i01",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "c3e0edge0g12000003",
+			"fromNode": "c3e0rep1109g12r01",
+			"fromSide": "right",
+			"toNode": "c3e0rep1109g12i02",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "d4f0edge1110g11001",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "bottom",
+			"toNode": "d4f0rep1110g11r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "11-10: 4 этажа"
+		},
+		{
+			"id": "d4f0edge1110g11002",
+			"fromNode": "d4f0rep1110g11r01",
+			"fromSide": "right",
+			"toNode": "d4f0rep1110g11i01",
+			"toSide": "left",
+			"color": "6",
+			"label": "доказательства"
+		},
+		{
+			"id": "d4f0edge1110g11003",
+			"fromNode": "d4f0rep1110g11r01",
+			"fromSide": "right",
+			"toNode": "d4f0rep1110g11i02",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "f6a0e_g08000001_f6a0sys33",
+			"fromNode": "b2d0des0g08000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys3300000001",
+			"toSide": "top",
+			"color": "4",
+			"label": "система"
+		},
+		{
+			"id": "f6a0e_g09000001_f6a0sys33",
+			"fromNode": "b2d0des0g09000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys3300000001",
+			"toSide": "top",
+			"color": "4"
+		},
+		{
+			"id": "f6a0e_g10000001_f6a0sys33",
+			"fromNode": "b2d0des0g10000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys3300000001",
+			"toSide": "top",
+			"color": "4"
+		},
+		{
+			"id": "f6a0e_g11000001_f6a0sys28",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys2800000001",
+			"toSide": "top",
+			"color": "4",
+			"label": "система"
+		},
+		{
+			"id": "f6a0e_g12000001_f6a0sys31",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys3100000001",
+			"toSide": "top",
+			"color": "4",
+			"label": "система"
+		},
+		{
+			"id": "f6a0e_g12000001_f6a0sys32",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0sys3200000001",
+			"toSide": "top",
+			"color": "4"
+		},
+		{
+			"id": "f6a0edge1111prog1",
+			"fromNode": "b2d0des0g11000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0rep1111prog01",
+			"toSide": "right",
+			"color": "6",
+			"label": "11-10/11: контракты, ранги"
+		},
+		{
+			"id": "f6a0edge1111part1",
+			"fromNode": "b2d0des0g12000001",
+			"fromSide": "bottom",
+			"toNode": "f6a0rep1111part21",
+			"toSide": "right",
+			"color": "6",
+			"label": "11-11: монстры, бандиты"
+		},
+		{
+			"id": "a7b0edge1112g15r1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1112g15r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G15 сделано"
+		},
+		{
+			"id": "a7b0edge1112g16r1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1112g16r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G16 сделано"
+		},
+		{
+			"id": "a7b0edge1112g17r1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1112g17r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G17 сделано"
+		},
+		{
+			"id": "a7b0edge1112bat1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1112batch1",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: ружья, пропуска, череп"
+		},
+		{
+			"id": "a7b0edge1113sfx1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113sfx01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: звуки ElevenLabs"
+		},
+		{
+			"id": "a7b0edge1113g18r1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113g18r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G18 сделано"
+		},
+		{
+			"id": "a7b0edge1113g13r1",
+			"fromNode": "b2d0des0g13000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113g13r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G13 сделано"
+		},
+		{
+			"id": "a7b0edge1113g19r1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113g19r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G19 сделано"
+		},
+		{
+			"id": "a7b0edge1113tlg1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113tlg01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: награды на телеграфе"
+		},
+		{
+			"id": "a7b0edge1113drw1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113drw01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: звук Draw 3"
+		},
+		{
+			"id": "a7b0edge1113snd1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1113snd01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: песчаная буря"
+		},
+		{
+			"id": "a7b0edge1114mon1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1114mon01",
+			"toSide": "right",
+			"color": "6",
+			"label": "монстры из Blender + вендиго"
+		},
+		{
+			"id": "a7b0edge1117gfx1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1117gfx01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: стрельба, эффекты"
+		},
+		{
+			"id": "a7b0edge1117g201",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1117g20r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G20 сделано"
+		},
+		{
+			"id": "a7b0edge1117crd1",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "left",
+			"toNode": "a7b0rep1117crd01",
+			"toSide": "right",
+			"color": "6",
+			"label": "вне плана: карты культиста, награды «???»"
+		},
+		{
+			"id": "a7b0edgephase34",
+			"fromNode": "c3e0des0g14000001",
+			"fromSide": "bottom",
+			"toNode": "a7b0phase4goals01",
+			"toSide": "top",
+			"color": "4",
+			"label": "дальше"
+		},
+		{
+			"id": "a7b0edgedes07",
+			"fromNode": "a7b0des07card01",
+			"fromSide": "right",
+			"toNode": "a7b0rep1117crd01",
+			"toSide": "left",
+			"color": "5",
+			"label": "дизайн"
+		},
+		{
+			"id": "a7b0edge1118g211",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118g21r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G21 сделано"
+		},
+		{
+			"id": "a7b0edge1118g221",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118g22r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G22 сделано"
+		},
+		{
+			"id": "a7b0edge1118g261",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118g26r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G26 сделано"
+		},
+		{
+			"id": "a7b0edge1118g341",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118g34r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G34 город"
+		},
+		{
+			"id": "a7b0edge1118sand1",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118sandr1",
+			"toSide": "right",
+			"color": "6",
+			"label": "G34 буря"
+		},
+		{
+			"id": "a7b0edge1118dfam1",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118dfamb1",
+			"toSide": "right",
+			"color": "6",
+			"label": "G34 остров B"
+		},
+		{
+			"id": "a7b0edge1118rain1",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1118rain1",
+			"toSide": "right",
+			"color": "6",
+			"label": "G34 гроза"
+		}
+	]
+}
