@@ -33,3 +33,8 @@ snapshot: 2026-11-19
 - [[MA Magic]]: `Rebirth`, `BuyBroom`, `EquipBroom`, `UpgradeBroom`, `Mount`, `Dismount`
 - [[MA Altars]]: `AltarBegin`, `AltarFinish`
 - [[MA Sanctum (сервер)]]: `SanctumPlace`, `SanctumRemove`, `SanctumCollect`, `SanctumUpgrade`, `SanctumHome`
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs (сервис)]] — StaffBolt, StaffAbility, StaffAim, StaffDraw, StaffBuy, StaffEquip, StaffSocket, StaffUnsocket
+<!-- staffs:end -->

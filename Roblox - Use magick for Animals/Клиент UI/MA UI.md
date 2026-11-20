@@ -49,3 +49,8 @@ UI-кит и состояние клиента: один ScreenGui, тема, ф
 - [[MA ремоут Sync]]
 - [[MA ремоут Notify]]
 - [[MA ремоут Action]]
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs (клиент)]], [[MA StaffFX]]
+<!-- staffs:end -->

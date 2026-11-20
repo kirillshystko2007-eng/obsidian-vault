@@ -31,3 +31,8 @@ snapshot: 2026-11-19
 - [[MA Sanctum (клиент)]]
 - [[MA BroomFlight]]
 - [[MA WorldFX]]
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs (клиент)]] (кнопки над RIDE)
+<!-- staffs:end -->

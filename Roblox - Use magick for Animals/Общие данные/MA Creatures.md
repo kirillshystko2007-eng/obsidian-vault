@@ -34,3 +34,8 @@ snapshot: 2026-11-19
 - [[MA Brew]]
 - [[MA Sanctum (клиент)]]
 - [[MA PetRenderer]]
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs]] — способность посоха для каждого существа
+<!-- staffs:end -->

@@ -31,3 +31,8 @@ snapshot: 2026-11-19
 - [[MA Altar]]
 - [[MA Sanctum (клиент)]]
 - [[MA CharacterJuice]]
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs (клиент)]]
+<!-- staffs:end -->

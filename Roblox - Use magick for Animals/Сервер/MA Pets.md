@@ -34,3 +34,8 @@ snapshot: 2026-11-19
 
 ## Обрабатывает действия Action
 `Equip`, `Unequip`, `EquipBest`, `Release`
+
+<!-- staffs:start -->
+## Посохи (2026-11-20)
+- [[MA Staffs (сервис)]] — питомец в посохе не экипируется и не отпускается
+<!-- staffs:end -->
