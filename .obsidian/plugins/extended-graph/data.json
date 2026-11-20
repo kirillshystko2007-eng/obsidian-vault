@@ -111,6 +111,31 @@
           "type": "Прочее",
           "color": "#8A8FA8",
           "recursive": false
+        },
+        {
+          "type": "Roblox - zombies speedstream/Системы",
+          "color": "#3DFF9E",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - zombies speedstream",
+          "color": "#9DFF3D",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - Use magick for Animals/Биомы",
+          "color": "#FF7AE6",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - Use magick for Animals/Системы",
+          "color": "#B07CFF",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - Use magick for Animals",
+          "color": "#D45CFF",
+          "recursive": false
         }
       ],
       "unselected": [],
@@ -201,6 +226,41 @@
         "color": {
           "a": 1,
           "rgb": 16727386
+        }
+      },
+      {
+        "query": "path:\"Roblox - zombies speedstream/Системы\"",
+        "color": {
+          "a": 1,
+          "rgb": 4063134
+        }
+      },
+      {
+        "query": "path:\"Roblox - zombies speedstream\"",
+        "color": {
+          "a": 1,
+          "rgb": 10354493
+        }
+      },
+      {
+        "query": "path:\"Roblox - Use magick for Animals/Биомы\"",
+        "color": {
+          "a": 1,
+          "rgb": 16743142
+        }
+      },
+      {
+        "query": "path:\"Roblox - Use magick for Animals/Системы\"",
+        "color": {
+          "a": 1,
+          "rgb": 11566335
+        }
+      },
+      {
+        "query": "path:\"Roblox - Use magick for Animals\"",
+        "color": {
+          "a": 1,
+          "rgb": 13917439
         }
       },
       {
@@ -303,6 +363,41 @@
             }
           },
           {
+            "query": "path:\"Roblox - zombies speedstream/Системы\"",
+            "color": {
+              "a": 1,
+              "rgb": 4063134
+            }
+          },
+          {
+            "query": "path:\"Roblox - zombies speedstream\"",
+            "color": {
+              "a": 1,
+              "rgb": 10354493
+            }
+          },
+          {
+            "query": "path:\"Roblox - Use magick for Animals/Биомы\"",
+            "color": {
+              "a": 1,
+              "rgb": 16743142
+            }
+          },
+          {
+            "query": "path:\"Roblox - Use magick for Animals/Системы\"",
+            "color": {
+              "a": 1,
+              "rgb": 11566335
+            }
+          },
+          {
+            "query": "path:\"Roblox - Use magick for Animals\"",
+            "color": {
+              "a": 1,
+              "rgb": 13917439
+            }
+          },
+          {
             "query": "path:\"Прочее\"",
             "color": {
               "a": 1,
@@ -374,7 +469,7 @@
   "focusScaleFactor": 1.8,
   "highlightOpenNodes": false,
   "highlightSearchResults": false,
-  "maxNodes": 20,
+  "maxNodes": 3000,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,

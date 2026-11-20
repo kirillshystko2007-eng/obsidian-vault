@@ -47,6 +47,26 @@
       "color": "#FF3D5A"
     },
     {
+      "query": "path:roblox - zombies speedstream/системы",
+      "color": "#3DFF9E"
+    },
+    {
+      "query": "path:roblox - zombies speedstream",
+      "color": "#9DFF3D"
+    },
+    {
+      "query": "path:roblox - use magick for animals/биомы",
+      "color": "#FF7AE6"
+    },
+    {
+      "query": "path:roblox - use magick for animals/системы",
+      "color": "#B07CFF"
+    },
+    {
+      "query": "path:roblox - use magick for animals",
+      "color": "#D45CFF"
+    },
+    {
       "query": "path:прочее",
       "color": "#8A8FA8"
     }
