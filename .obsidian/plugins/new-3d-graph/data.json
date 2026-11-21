@@ -67,6 +67,14 @@
       "color": "#D45CFF"
     },
     {
+      "query": "path:claude - визуальная память/сессии",
+      "color": "#8FD3FF"
+    },
+    {
+      "query": "path:claude - визуальная память",
+      "color": "#E8F0FF"
+    },
+    {
       "query": "path:прочее",
       "color": "#8A8FA8"
     }

@@ -136,6 +136,16 @@
           "type": "Roblox - Use magick for Animals",
           "color": "#D45CFF",
           "recursive": false
+        },
+        {
+          "type": "Claude - Визуальная память/Сессии",
+          "color": "#8FD3FF",
+          "recursive": false
+        },
+        {
+          "type": "Claude - Визуальная память",
+          "color": "#E8F0FF",
+          "recursive": false
         }
       ],
       "unselected": [],
@@ -261,6 +271,20 @@
         "color": {
           "a": 1,
           "rgb": 13917439
+        }
+      },
+      {
+        "query": "path:\"Claude - Визуальная память/Сессии\"",
+        "color": {
+          "a": 1,
+          "rgb": 9425919
+        }
+      },
+      {
+        "query": "path:\"Claude - Визуальная память\"",
+        "color": {
+          "a": 1,
+          "rgb": 15266047
         }
       },
       {
@@ -395,6 +419,20 @@
             "color": {
               "a": 1,
               "rgb": 13917439
+            }
+          },
+          {
+            "query": "path:\"Claude - Визуальная память/Сессии\"",
+            "color": {
+              "a": 1,
+              "rgb": 9425919
+            }
+          },
+          {
+            "query": "path:\"Claude - Визуальная память\"",
+            "color": {
+              "a": 1,
+              "rgb": 15266047
             }
           },
           {
