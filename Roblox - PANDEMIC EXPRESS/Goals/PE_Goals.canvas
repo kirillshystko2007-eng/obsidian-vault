@@ -6,7 +6,7 @@
 			"x": 1100,
 			"y": 3020,
 			"width": 2300,
-			"height": 47560,
+			"height": 48620,
 			"color": "4",
 			"label": "ОТЧЁТЫ · СДЕЛАНО (со скриншотами)"
 		},
@@ -1368,6 +1368,16 @@
 			"width": 1400,
 			"height": 980,
 			"color": "6"
+		},
+		{
+			"id": "a7b0rep1122g30r01",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Reports/PE Отчёт 2026-11-22 — G30, ИИ и спавн NPC.md",
+			"x": 1160,
+			"y": 50580,
+			"width": 1400,
+			"height": 980,
+			"color": "6"
 		}
 	],
 	"edges": [
@@ -2419,6 +2429,15 @@
 			"toSide": "right",
 			"color": "6",
 			"label": "вина x10, головы"
+		},
+		{
+			"id": "a7b0edge1122g30r01",
+			"fromNode": "a7b0phase4goals01",
+			"fromSide": "left",
+			"toNode": "a7b0rep1122g30r01",
+			"toSide": "right",
+			"color": "6",
+			"label": "G30"
 		}
 	]
 }
