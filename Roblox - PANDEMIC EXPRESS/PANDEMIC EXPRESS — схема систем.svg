@@ -1,81 +1,191 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1060" viewBox="0 0 1600 1060" role="img" aria-labelledby="title desc">
-<title id="title">PANDEMIC EXPRESS — карта систем</title>
-<desc id="desc">Архитектурная карта Roblox плейса: мир и шаблоны подключены к авторитетным серверным системам, которые общаются с клиентом через ReplicatedStorage.</desc>
-<defs>
-  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#d6ad63"/></marker>
-  <marker id="arrow2" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#82c8c3"/></marker>
-  <style>
-   .bg{fill:#0c1017}.card{fill:#171e29;stroke:#3a4656;stroke-width:2}.sub{fill:#121821;stroke:#344050;stroke-width:1.5}.gold{fill:#e5c17a}.teal{fill:#8ad2ca}.violet{fill:#c1a6ff}.white{fill:#f3efe6}.muted{fill:#a8b2c0}.line{fill:none;stroke:#d6ad63;stroke-width:3;marker-end:url(#arrow)}.line2{fill:none;stroke:#82c8c3;stroke-width:3;marker-end:url(#arrow2)}.dash{stroke-dasharray:8 8}
-   text{font-family:Segoe UI,Arial,sans-serif}.head{font-size:30px;font-weight:700}.label{font-size:22px;font-weight:700}.body{font-size:17px}.small{font-size:14px}.chip{font-size:14px;font-weight:600}
-  </style>
-</defs>
-<rect class="bg" width="1600" height="1060"/>
-<text x="64" y="66" class="head white">PANDEMIC EXPRESS <tspan class="gold">/ карта систем плейса</tspan></text>
-<text x="66" y="98" class="body muted">PlaceId 76732085725787 · Studio Edit snapshot · 27 Oct 2026</text>
-<!-- Edges behind the cards -->
-<path d="M380 295 C420 295 420 330 458 330" class="line"/>
-<path d="M380 725 C420 725 420 490 458 490" class="line"/>
-<path d="M795 358 C835 358 835 285 875 285" class="line2"/>
-<path d="M875 420 C835 420 835 510 795 510" class="line2"/>
-<path d="M1080 425 C1080 462 1080 470 1080 505" class="line dash"/>
-<path d="M875 632 C835 632 835 555 795 555" class="line2"/>
-<path d="M795 625 C850 625 850 800 900 800" class="line"/>
-<text x="802" y="317" class="small teal">RemoteEvents / общие данные</text>
-<text x="1093" y="474" class="small muted">локальный интерфейс</text>
-<!-- World -->
-<rect x="55" y="145" width="325" height="335" rx="18" class="card"/>
-<text x="82" y="188" class="label gold">МИР · Workspace</text>
-<rect x="80" y="214" width="275" height="92" rx="12" class="sub"/>
-<text x="98" y="244" class="body white">Canyon Crossing</text><text x="98" y="270" class="small muted">город, станция, NPC, промпты</text><text x="98" y="291" class="small muted">ArmoryOwner · точки входа</text>
-<rect x="80" y="320" width="275" height="125" rx="12" class="sub"/>
-<text x="98" y="350" class="body white">DeadFrontierMap</text><text x="98" y="376" class="small muted">Regions · Roads/Rails/Bridges</text><text x="98" y="398" class="small muted">Forests · Details · Locations</text><text x="98" y="424" class="small muted">ZombieSpawn · LootSpawns</text>
-<!-- Storage -->
-<rect x="55" y="535" width="325" height="335" rx="18" class="card"/>
-<text x="82" y="578" class="label violet">ШАБЛОНЫ · ServerStorage</text>
-<text x="88" y="620" class="body white">Оружие: Revolver, Fists</text>
-<text x="88" y="651" class="body white">RevolverSkins · ArmoryRoom</text>
-<text x="88" y="682" class="body white">ZombieTemplate · NPC</text>
-<text x="88" y="713" class="body white">FrontierLocations (10 модулей)</text>
-<rect x="80" y="742" width="275" height="90" rx="12" class="sub"/>
-<text x="98" y="773" class="small gold">_AnimBackup / _Backups</text><text x="98" y="799" class="small muted">исторические копии; не источник истины</text>
-<!-- Server -->
-<rect x="458" y="190" width="337" height="573" rx="18" class="card"/>
-<text x="487" y="235" class="label gold">СЕРВЕР · authoritative</text>
-<text x="488" y="276" class="small muted">ServerScriptService — 18 Scripts + 2 modules</text>
-<rect x="483" y="300" width="286" height="78" rx="12" class="sub"/>
-<text x="501" y="330" class="body white">Персонаж и бой</text><text x="501" y="356" class="small muted">R6Spawn · RevolverPickupHandler · Fists</text>
-<rect x="483" y="394" width="286" height="78" rx="12" class="sub"/>
-<text x="501" y="424" class="body white">Мир и прогресс</text><text x="501" y="450" class="small muted">ZombieSpawner · Discovery · KillTracker</text>
-<rect x="483" y="488" width="286" height="78" rx="12" class="sub"/>
-<text x="501" y="518" class="body white">Переходы и арсенал</text><text x="501" y="544" class="small muted">TravelService · ArmoryService</text>
-<rect x="483" y="582" width="286" height="78" rx="12" class="sub"/>
-<text x="501" y="612" class="body white">Интро и время суток</text><text x="501" y="638" class="small muted">IntroService · DayNightCycle · RetroDayNightCycle</text>
-<text x="488" y="706" class="small muted">Сервер владеет уроном, Cash, спавном и телепортом.</text>
-<!-- Shared -->
-<rect x="875" y="145" width="650" height="280" rx="18" class="card"/>
-<text x="906" y="190" class="label teal">ОБЩИЙ СЛОЙ · ReplicatedStorage</text>
-<rect x="903" y="216" width="290" height="76" rx="12" class="sub"/>
-<text x="922" y="247" class="body white">RemoteEvents</text><text x="922" y="273" class="small muted">Armory · Stance · Hit · Intro</text>
-<rect x="1208" y="216" width="288" height="76" rx="12" class="sub"/>
-<text x="1227" y="247" class="body white">Runtime remotes</text><text x="1227" y="273" class="small muted">TravelRemote · DiscoveryRemote</text>
-<rect x="903" y="310" width="290" height="82" rx="12" class="sub"/>
-<text x="922" y="341" class="body white">Модули и HUD</text><text x="922" y="367" class="small muted">ArmoryCatalog · PandemicHUD.Theme</text>
-<rect x="1208" y="310" width="288" height="82" rx="12" class="sub"/>
-<text x="1227" y="341" class="body white">Мир и анимации</text><text x="1227" y="367" class="small muted">Zones · Animations · Atmosphere.Config</text>
-<!-- Client -->
-<rect x="875" y="505" width="650" height="365" rx="18" class="card"/>
-<text x="906" y="550" class="label teal">КЛИЕНТ · StarterPlayerScripts</text>
-<text x="908" y="584" class="small muted">27 LocalScripts · StarterGui пуст, интерфейсы создаются динамически</text>
-<rect x="903" y="610" width="290" height="91" rx="12" class="sub"/>
-<text x="922" y="641" class="body white">Игрок и интерфейс</text><text x="922" y="669" class="small muted">HUD · MouseControl · CharacterAnimator</text>
-<rect x="1208" y="610" width="288" height="91" rx="12" class="sub"/>
-<text x="1227" y="641" class="body white">Оружие и арсенал</text><text x="1227" y="669" class="small muted">StanceMenu · ArmoryClient</text>
-<rect x="903" y="719" width="290" height="91" rx="12" class="sub"/>
-<text x="922" y="750" class="body white">Переход и открытие зон</text><text x="922" y="778" class="small muted">TravelClient · LocationTitles</text>
-<rect x="1208" y="719" width="288" height="91" rx="12" class="sub"/>
-<text x="1227" y="750" class="body white">Интро и атмосфера</text><text x="1227" y="778" class="small muted">IntroClient · AtmosphereClient</text>
-<!-- footer -->
-<text x="64" y="944" class="body gold">Основной поток:</text>
-<text x="214" y="944" class="body white">мир/шаблоны → серверные правила ↔ общие события ↔ клиентский ввод и визуальные эффекты</text>
-<text x="64" y="986" class="small muted">Заметка Obsidian: PANDEMIC EXPRESS — карта плейса для ИИ.md · снимок сделан в режиме Edit, рантайм отдельно не проверялся</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="2280" height="1556" viewBox="0 0 2280 1556"><title>/ карта систем</title><style>text{font-family:'Segoe UI',Arial,sans-serif}</style><rect width="2280" height="1556" fill="#101318"/><text x="40" y="64" font-size="38" fill="#f3eee3" font-weight="700" letter-spacing="3">PANDEMIC EXPRESS</text><text x="490" y="64" font-size="32" fill="#e5c17a" font-weight="700">/ карта систем</text><text x="40" y="102" font-size="18" fill="#929ba5" >12 систем · Roblox Studio, режим Edit, 2026-11-22, версия 972 + несохранённые правки</text><rect x="30" y="130" width="724" height="108" rx="12" fill="#222933" stroke="#37404b"/>
+<text x="52" y="168" font-size="24" fill="#e5c17a" font-weight="700">СЕРВЕР</text>
+<text x="52" y="198" font-size="18" fill="#f3eee3" >ServerScriptService</text>
+<text x="52" y="222" font-size="16" fill="#929ba5" >42 скрипта + 3 модуля</text>
+<text x="766" y="193" font-size="25" fill="#e5c17a" text-anchor="middle">⇄</text>
+<rect x="778" y="130" width="724" height="108" rx="12" fill="#222933" stroke="#37404b"/>
+<text x="800" y="168" font-size="24" fill="#e5c17a" font-weight="700">ОБЩИЙ СЛОЙ</text>
+<text x="800" y="198" font-size="18" fill="#f3eee3" >ReplicatedStorage</text>
+<text x="800" y="222" font-size="16" fill="#929ba5" >remotes, каталоги, данные</text>
+<text x="1514" y="193" font-size="25" fill="#e5c17a" text-anchor="middle">⇄</text>
+<rect x="1526" y="130" width="724" height="108" rx="12" fill="#222933" stroke="#37404b"/>
+<text x="1548" y="168" font-size="24" fill="#e5c17a" font-weight="700">КЛИЕНТ</text>
+<text x="1548" y="198" font-size="18" fill="#f3eee3" >StarterPlayerScripts</text>
+<text x="1548" y="222" font-size="16" fill="#929ba5" >53 скрипта + заставка</text>
+<text x="40" y="270" font-size="18" fill="#c3c0b8" >Мир: Workspace · шаблоны и серверные модули: ServerStorage · урон, деньги, спавн и перемещение решает только сервер</text>
+<rect x="30" y="292" width="724" height="295" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="48" y="309" width="7" height="27" rx="3" fill="#3987e5"/>
+<text x="68" y="332" font-size="22" fill="#f3eee3" font-weight="700">1. Персонаж, смерть, движение</text>
+<text x="52" y="368" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="208" y="368" font-size="16" fill="#c3c0b8" >R6Spawn · DeathAnimations* · PainService</text>
+<text x="208" y="391" font-size="16" fill="#c3c0b8" >SeatSwivelServer · SeatPromptServer · CactusDamage</text>
+<text x="52" y="423" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="208" y="423" font-size="16" fill="#c3c0b8" >CharacterAnimator · MouseControl · DeathScreen</text>
+<text x="208" y="446" font-size="16" fill="#c3c0b8" >DisableDefaultDeathSound · CorpseHands · ArmAttachFix</text>
+<text x="208" y="469" font-size="16" fill="#c3c0b8" >SeatLock · VaultClient</text>
+<text x="52" y="501" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="208" y="501" font-size="16" fill="#c3c0b8" >Animations · AnimationIdResolver</text>
+<text x="52" y="533" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="208" y="533" font-size="16" fill="#c3c0b8" >DownedResetRequest · CorpseDragUnder · SeatSwivel</text>
+<text x="52" y="565" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="208" y="565" font-size="16" fill="#929ba5" >PE 05 · PE 06 · PE 07</text>
+<rect x="778" y="292" width="724" height="364" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="796" y="309" width="7" height="27" rx="3" fill="#e66767"/>
+<text x="816" y="332" font-size="22" fill="#f3eee3" font-weight="700">2. Оружие и бой</text>
+<text x="800" y="368" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="956" y="368" font-size="16" fill="#c3c0b8" >RevolverPickupHandler · DualRevolver · HitZones*</text>
+<text x="956" y="391" font-size="16" fill="#c3c0b8" >FistsService · CombatMovesService · LongGunAimService</text>
+<text x="956" y="414" font-size="16" fill="#c3c0b8" >RevolverSpinRelay · PickupRespawner</text>
+<text x="800" y="446" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="956" y="446" font-size="16" fill="#c3c0b8" >StanceMenu · CombatMovesClient · LongGunPoseClient</text>
+<text x="956" y="469" font-size="16" fill="#c3c0b8" >RevolverSpinClient</text>
+<text x="800" y="501" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="956" y="501" font-size="16" fill="#c3c0b8" >GunFX · LongGun · LongGunCore · RevolverSpin</text>
+<text x="956" y="524" font-size="16" fill="#c3c0b8" >BoneHitboxes</text>
+<text x="800" y="556" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="956" y="556" font-size="16" fill="#c3c0b8" >RevolverShotEffects · HitMarker · StanceRequest</text>
+<text x="956" y="579" font-size="16" fill="#c3c0b8" >CombatMoves · LongGunAim · RevolverDrawSpin</text>
+<text x="956" y="602" font-size="16" fill="#c3c0b8" >GunRemote</text>
+<text x="800" y="634" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="956" y="634" font-size="16" fill="#929ba5" >PE 08 · PE 09 · PE 10 · PE 11 · PE 29 · PE 30</text>
+<rect x="1526" y="292" width="724" height="240" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="1544" y="309" width="7" height="27" rx="3" fill="#d95926"/>
+<text x="1564" y="332" font-size="22" fill="#f3eee3" font-weight="700">3. Враги и NPC</text>
+<text x="1548" y="368" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="1704" y="368" font-size="16" fill="#c3c0b8" >ZombieSpawner · MonsterSpawner · BanditDirector</text>
+<text x="1704" y="391" font-size="16" fill="#c3c0b8" >NPCAnimator · SkinnedMonsterAnimator</text>
+<text x="1548" y="423" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="1704" y="423" font-size="16" fill="#c3c0b8" >NPCLife</text>
+<text x="1548" y="455" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="1704" y="455" font-size="16" fill="#c3c0b8" >MonsterCore · BanditCore · MonsterTemplates</text>
+<text x="1704" y="478" font-size="16" fill="#c3c0b8" >ZombieTemplate · WerewolfTemplate</text>
+<text x="1548" y="510" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="1704" y="510" font-size="16" fill="#929ba5" >PE 12 · PE 13 · PE 31 · PE 32</text>
+<rect x="1526" y="552" width="724" height="272" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="1544" y="569" width="7" height="27" rx="3" fill="#c98500"/>
+<text x="1564" y="592" font-size="22" fill="#f3eee3" font-weight="700">4. Поезд и переходы</text>
+<text x="1548" y="628" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="1704" y="628" font-size="16" fill="#c3c0b8" >TrainService · TravelService</text>
+<text x="1548" y="660" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="1704" y="660" font-size="16" fill="#c3c0b8" >TrainClient · TrainWorld · TrainWhistleClient</text>
+<text x="1704" y="683" font-size="16" fill="#c3c0b8" >TravelClient</text>
+<text x="1548" y="715" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="1704" y="715" font-size="16" fill="#c3c0b8" >TrainShared · TrainRoute · TrainRouteData</text>
+<text x="1704" y="738" font-size="16" fill="#c3c0b8" >Train1Template · Train2Scene</text>
+<text x="1548" y="770" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="1704" y="770" font-size="16" fill="#c3c0b8" >TrainRemote · TravelRemote</text>
+<text x="1548" y="802" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="1704" y="802" font-size="16" fill="#929ba5" >PE 15 · PE Дизайн 01</text>
+<rect x="30" y="607" width="724" height="249" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="48" y="624" width="7" height="27" rx="3" fill="#199e70"/>
+<text x="68" y="647" font-size="22" fill="#f3eee3" font-weight="700">5. Рейд: вещи и сохранение</text>
+<text x="52" y="683" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="208" y="683" font-size="16" fill="#c3c0b8" >PlayerData · BagService · BeltService · GraveService</text>
+<text x="208" y="706" font-size="16" fill="#c3c0b8" >PocketWatchService · StashService</text>
+<text x="52" y="738" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="208" y="738" font-size="16" fill="#c3c0b8" >BagClient · BeltHUD · GraveClient · StashClient</text>
+<text x="52" y="770" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="208" y="770" font-size="16" fill="#c3c0b8" >BagUtil · ItemRegistry · AmmoBelt · StashStore</text>
+<text x="52" y="802" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="208" y="802" font-size="16" fill="#c3c0b8" >BagRemote · GraveRemote · StashRemote</text>
+<text x="52" y="834" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="208" y="834" font-size="16" fill="#929ba5" >PE 33 · PE 23 · PE Дизайн 02</text>
+<rect x="778" y="676" width="724" height="295" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="796" y="693" width="7" height="27" rx="3" fill="#d9b25a"/>
+<text x="816" y="716" font-size="22" fill="#f3eee3" font-weight="700">6. Экономика и арсенал</text>
+<text x="800" y="752" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="956" y="752" font-size="16" fill="#c3c0b8" >StartingCash · Economy* · LootService · FenceService</text>
+<text x="956" y="775" font-size="16" fill="#c3c0b8" >ArmoryService · TelegraphService</text>
+<text x="800" y="807" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="956" y="807" font-size="16" fill="#c3c0b8" >ArmoryClient · LootToast · FenceClient</text>
+<text x="956" y="830" font-size="16" fill="#c3c0b8" >TelegraphClient</text>
+<text x="800" y="862" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="956" y="862" font-size="16" fill="#c3c0b8" >ArmoryCatalog · ValuableCatalog · CustomizationCatalog</text>
+<text x="956" y="885" font-size="16" fill="#c3c0b8" >ParcelStore</text>
+<text x="800" y="917" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="956" y="917" font-size="16" fill="#c3c0b8" >ArmoryRemote · LootRemote · FenceRemote · ParcelRemote</text>
+<text x="800" y="949" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="956" y="949" font-size="16" fill="#929ba5" >PE 14 · PE 17 · PE Дизайн 06</text>
+<rect x="1526" y="844" width="724" height="226" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="1544" y="861" width="7" height="27" rx="3" fill="#9085e9"/>
+<text x="1564" y="884" font-size="22" fill="#f3eee3" font-weight="700">7. Прогрессия и розыск</text>
+<text x="1548" y="920" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="1704" y="920" font-size="16" fill="#c3c0b8" >ProgressionService · BountyService · KillTracker</text>
+<text x="1548" y="952" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="1704" y="952" font-size="16" fill="#c3c0b8" >ProgressionClient · BountyClient · TitleClient</text>
+<text x="1548" y="984" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="1704" y="984" font-size="16" fill="#c3c0b8" >ProgressionCatalog · FlyerDesign · BountyCore</text>
+<text x="1548" y="1016" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="1704" y="1016" font-size="16" fill="#c3c0b8" >ProgressionRemote · BountyRemote</text>
+<text x="1548" y="1048" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="1704" y="1048" font-size="16" fill="#929ba5" >PE 28 · PE Дизайн 04</text>
+<rect x="30" y="876" width="724" height="226" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="48" y="893" width="7" height="27" rx="3" fill="#d55181"/>
+<text x="68" y="916" font-size="22" fill="#f3eee3" font-weight="700">8. PvP, вина, отряд</text>
+<text x="52" y="952" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="208" y="952" font-size="16" fill="#c3c0b8" >GuiltService · PosseService</text>
+<text x="52" y="984" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="208" y="984" font-size="16" fill="#c3c0b8" >GuiltClient · GuiltSkull · PosseClient</text>
+<text x="52" y="1016" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="208" y="1016" font-size="16" fill="#c3c0b8" >PvPRules · SafeZones</text>
+<text x="52" y="1048" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="208" y="1048" font-size="16" fill="#c3c0b8" >GuiltRemote · PosseRemote · PossePulse</text>
+<text x="52" y="1080" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="208" y="1080" font-size="16" fill="#929ba5" >PE Дизайн 03</text>
+<rect x="778" y="991" width="724" height="226" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="796" y="1008" width="7" height="27" rx="3" fill="#86b6ef"/>
+<text x="816" y="1031" font-size="22" fill="#f3eee3" font-weight="700">9. Карты и Потерянная душа</text>
+<text x="800" y="1067" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="956" y="1067" font-size="16" fill="#c3c0b8" >CardService · LostSoulMain</text>
+<text x="800" y="1099" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="956" y="1099" font-size="16" fill="#c3c0b8" >CardClient · LostSoulClient · GhostCurseClient</text>
+<text x="800" y="1131" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="956" y="1131" font-size="16" fill="#c3c0b8" >CardCatalog · CardItems · LostSoul</text>
+<text x="800" y="1163" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="956" y="1163" font-size="16" fill="#c3c0b8" >CardRemote · LostSoulRemote · SelfCurseRemote</text>
+<text x="800" y="1195" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="956" y="1195" font-size="16" fill="#929ba5" >PE Дизайн 07 · PE Дизайн 08</text>
+<rect x="1526" y="1090" width="724" height="318" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="1544" y="1107" width="7" height="27" rx="3" fill="#62b85c"/>
+<text x="1564" y="1130" font-size="22" fill="#f3eee3" font-weight="700">10. Мир, время и события</text>
+<text x="1548" y="1166" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="1704" y="1166" font-size="16" fill="#c3c0b8" >DayNightCycle · EventService · DiscoveryService</text>
+<text x="1704" y="1189" font-size="16" fill="#c3c0b8" >SandstormBorderService</text>
+<text x="1548" y="1221" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="1704" y="1221" font-size="16" fill="#c3c0b8" >AtmosphereClient · TimeOfDayKey · FrontierEventClient</text>
+<text x="1704" y="1244" font-size="16" fill="#c3c0b8" >SandstormBorderClient · LocationTitles</text>
+<text x="1548" y="1276" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="1704" y="1276" font-size="16" fill="#c3c0b8" >Zones · WesternAtmosphere · SandstormBorder</text>
+<text x="1704" y="1299" font-size="16" fill="#c3c0b8" >FrontierLocations</text>
+<text x="1548" y="1331" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="1704" y="1331" font-size="16" fill="#c3c0b8" >CycleTimeRequest · FrontierEventRemote</text>
+<text x="1704" y="1354" font-size="16" fill="#c3c0b8" >DiscoveryRemote</text>
+<text x="1548" y="1386" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="1704" y="1386" font-size="16" fill="#929ba5" >PE 16 · PE 18 · PE 21 · PE 22</text>
+<rect x="30" y="1122" width="724" height="231" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="48" y="1139" width="7" height="27" rx="3" fill="#4fb7c4"/>
+<text x="68" y="1162" font-size="22" fill="#f3eee3" font-weight="700">11. Звук и окружение</text>
+<text x="52" y="1198" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="208" y="1198" font-size="16" fill="#c3c0b8" >AmbienceClient · FrontierAmbienceClient</text>
+<text x="208" y="1221" font-size="16" fill="#c3c0b8" >VenueAmbience · DesertEnvironmentAudio</text>
+<text x="208" y="1244" font-size="16" fill="#c3c0b8" >RetroFootsteps · PlayerJoinSound · VisualPolish</text>
+<text x="208" y="1267" font-size="16" fill="#c3c0b8" >WindmillSpin · SaloonDoors</text>
+<text x="52" y="1299" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="208" y="1299" font-size="16" fill="#c3c0b8" >PESounds · LocationAmbience</text>
+<text x="52" y="1331" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="208" y="1331" font-size="16" fill="#929ba5" >PE 24</text>
+<rect x="778" y="1237" width="724" height="249" rx="12" fill="#191e25" stroke="#37404b"/>
+<rect x="796" y="1254" width="7" height="27" rx="3" fill="#b5aea2"/>
+<text x="816" y="1277" font-size="22" fill="#f3eee3" font-weight="700">12. Интро и интерфейс</text>
+<text x="800" y="1313" font-size="15" fill="#e5c17a" font-weight="700">Сервер</text>
+<text x="956" y="1313" font-size="16" fill="#c3c0b8" >IntroService</text>
+<text x="800" y="1345" font-size="15" fill="#e5c17a" font-weight="700">Клиент</text>
+<text x="956" y="1345" font-size="16" fill="#c3c0b8" >IntroClient · HUD · HudToggle · InteractionPromptStyle</text>
+<text x="956" y="1368" font-size="16" fill="#c3c0b8" >EmoteWheel</text>
+<text x="800" y="1400" font-size="15" fill="#e5c17a" font-weight="700">Модули и данные</text>
+<text x="956" y="1400" font-size="16" fill="#c3c0b8" >PandemicHUD · IntroModules</text>
+<text x="800" y="1432" font-size="15" fill="#e5c17a" font-weight="700">Remotes</text>
+<text x="956" y="1432" font-size="16" fill="#c3c0b8" >IntroEvent</text>
+<text x="800" y="1464" font-size="15" fill="#e5c17a" font-weight="700">Заметки</text>
+<text x="956" y="1464" font-size="16" fill="#929ba5" >PE 19 · PE 20 · PE 34</text>
+<text x="40" y="1530" font-size="17" fill="#929ba5" >* ModuleScript. Выключены и не показаны: RetroDayNightCycle, CheckerboardMoonSpin, DayNightSkipKey. Заставка: ReplicatedFirst.IntroCover.</text></svg>

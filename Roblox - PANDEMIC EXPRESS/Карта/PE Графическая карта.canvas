@@ -1,0 +1,657 @@
+{
+	"nodes": [
+		{
+			"id": "head",
+			"type": "text",
+			"text": "# PANDEMIC EXPRESS\nПолная графическая карта · 2026-11-22\n\nКарточки заметок открываются двойным кликом.",
+			"x": 1650,
+			"y": -420,
+			"width": 900,
+			"height": 260,
+			"color": "3"
+		},
+		{
+			"id": "world",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Карта/PE Карта 01 - Мир.svg",
+			"x": 0,
+			"y": 0,
+			"width": 1200,
+			"height": 1420
+		},
+		{
+			"id": "df",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Карта/PE Карта 02 - Dead Frontier.svg",
+			"x": 1400,
+			"y": 0,
+			"width": 1750,
+			"height": 1250
+		},
+		{
+			"id": "cc",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Карта/PE Карта 03 - Canyon Crossing.svg",
+			"x": 3350,
+			"y": 0,
+			"width": 1750,
+			"height": 1260
+		},
+		{
+			"id": "sys",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/PANDEMIC EXPRESS — схема систем.svg",
+			"x": 1400,
+			"y": 1500,
+			"width": 1750,
+			"height": 1300
+		},
+		{
+			"id": "note",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Карта/PE Карта мира.md",
+			"x": 3350,
+			"y": 1500,
+			"width": 850,
+			"height": 1300,
+			"color": "3"
+		},
+		{
+			"id": "ai",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/PANDEMIC EXPRESS — карта плейса для ИИ.md",
+			"x": 4250,
+			"y": 1500,
+			"width": 850,
+			"height": 1300
+		},
+		{
+			"id": "g0",
+			"type": "group",
+			"x": 0,
+			"y": 3100,
+			"width": 1220,
+			"height": 1240,
+			"label": "1. Персонаж, смерть, движение",
+			"color": "1"
+		},
+		{
+			"id": "t0",
+			"type": "text",
+			"text": "## Персонаж, смерть, движение\n**Сервер:** R6Spawn, DeathAnimations*, PainService, SeatSwivelServer, SeatPromptServer, CactusDamage\n\n**Клиент:** CharacterAnimator, MouseControl, DeathScreen, DisableDefaultDeathSound, CorpseHands, ArmAttachFix, SeatLock, VaultClient",
+			"x": 20,
+			"y": 3120,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n0x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 05 - Персонаж и респавн.md",
+			"x": 20,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n0x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 06 - Downed и смерть.md",
+			"x": 620,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n0x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 07 - Анимации.md",
+			"x": 20,
+			"y": 3738,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g1",
+			"type": "group",
+			"x": 1300,
+			"y": 3100,
+			"width": 1220,
+			"height": 1240,
+			"label": "2. Оружие и бой",
+			"color": "2"
+		},
+		{
+			"id": "t1",
+			"type": "text",
+			"text": "## Оружие и бой\n**Сервер:** RevolverPickupHandler, DualRevolver, HitZones*, FistsService, CombatMovesService, LongGunAimService, RevolverSpinRelay, PickupRespawner\n\n**Клиент:** StanceMenu, CombatMovesClient, LongGunPoseClient, RevolverSpinClient",
+			"x": 1320,
+			"y": 3120,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n1x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 08 - Револьвер.md",
+			"x": 1320,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n1x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 09 - Dual stance.md",
+			"x": 1920,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n1x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 10 - Fists.md",
+			"x": 1320,
+			"y": 3738,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n1x3",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 11 - Урон и киллы.md",
+			"x": 1920,
+			"y": 3738,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n1x4",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 29 - Боевые приёмы (толчок и уворот).md",
+			"x": 1320,
+			"y": 4036,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n1x5",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 30 - Длинные ружья.md",
+			"x": 1920,
+			"y": 4036,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g2",
+			"type": "group",
+			"x": 2600,
+			"y": 3100,
+			"width": 1220,
+			"height": 1240,
+			"label": "3. Враги и NPC",
+			"color": "3"
+		},
+		{
+			"id": "t2",
+			"type": "text",
+			"text": "## Враги и NPC\n**Сервер:** ZombieSpawner, MonsterSpawner, BanditDirector, NPCAnimator, SkinnedMonsterAnimator\n\n**Клиент:** NPCLife",
+			"x": 2620,
+			"y": 3120,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n2x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 12 - Зомби.md",
+			"x": 2620,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n2x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 13 - NPC.md",
+			"x": 3220,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n2x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 31 - Монстры.md",
+			"x": 2620,
+			"y": 3738,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n2x3",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 32 - Бандиты.md",
+			"x": 3220,
+			"y": 3738,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g3",
+			"type": "group",
+			"x": 3900,
+			"y": 3100,
+			"width": 1220,
+			"height": 1240,
+			"label": "4. Поезд и переходы",
+			"color": "4"
+		},
+		{
+			"id": "t3",
+			"type": "text",
+			"text": "## Поезд и переходы\n**Сервер:** TrainService, TravelService\n\n**Клиент:** TrainClient, TrainWorld, TrainWhistleClient, TravelClient",
+			"x": 3920,
+			"y": 3120,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n3x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 15 - Поезд.md",
+			"x": 3920,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n3x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 01 — Рейд и поезд-экстракция.md",
+			"x": 4520,
+			"y": 3440,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g4",
+			"type": "group",
+			"x": 0,
+			"y": 4460,
+			"width": 1220,
+			"height": 1240,
+			"label": "5. Рейд: вещи и сохранение",
+			"color": "5"
+		},
+		{
+			"id": "t4",
+			"type": "text",
+			"text": "## Рейд: вещи и сохранение\n**Сервер:** PlayerData, BagService, BeltService, GraveService, PocketWatchService, StashService\n\n**Клиент:** BagClient, BeltHUD, GraveClient, StashClient",
+			"x": 20,
+			"y": 4480,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n4x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 33 - Рейд - сумка, могила, сохранение, вина.md",
+			"x": 20,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n4x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 23 - Tools и backups.md",
+			"x": 620,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n4x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 02 — Инвентарь, смерть и сохранение.md",
+			"x": 20,
+			"y": 5098,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g5",
+			"type": "group",
+			"x": 1300,
+			"y": 4460,
+			"width": 1220,
+			"height": 1240,
+			"label": "6. Экономика и арсенал",
+			"color": "6"
+		},
+		{
+			"id": "t5",
+			"type": "text",
+			"text": "## Экономика и арсенал\n**Сервер:** StartingCash, Economy*, LootService, FenceService, ArmoryService, TelegraphService\n\n**Клиент:** ArmoryClient, LootToast, FenceClient, TelegraphClient",
+			"x": 1320,
+			"y": 4480,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n5x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 14 - Арсенал.md",
+			"x": 1320,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n5x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 17 - Деньги.md",
+			"x": 1920,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n5x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 06 — Экономика и прогресс.md",
+			"x": 1320,
+			"y": 5098,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g6",
+			"type": "group",
+			"x": 2600,
+			"y": 4460,
+			"width": 1220,
+			"height": 1240,
+			"label": "7. Прогрессия и розыск",
+			"color": "1"
+		},
+		{
+			"id": "t6",
+			"type": "text",
+			"text": "## Прогрессия и розыск\n**Сервер:** ProgressionService, BountyService, KillTracker\n\n**Клиент:** ProgressionClient, BountyClient, TitleClient",
+			"x": 2620,
+			"y": 4480,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n6x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 28 - Прогрессия (гильдия и шериф).md",
+			"x": 2620,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n6x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 04 — Гильдия и таверна.md",
+			"x": 3220,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g7",
+			"type": "group",
+			"x": 3900,
+			"y": 4460,
+			"width": 1220,
+			"height": 1240,
+			"label": "8. PvP, вина, отряд",
+			"color": "2"
+		},
+		{
+			"id": "t7",
+			"type": "text",
+			"text": "## PvP, вина, отряд\n**Сервер:** GuiltService, PosseService\n\n**Клиент:** GuiltClient, GuiltSkull, PosseClient",
+			"x": 3920,
+			"y": 4480,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n7x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 03 — PvP, безопасные зоны и вина.md",
+			"x": 3920,
+			"y": 4800,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g8",
+			"type": "group",
+			"x": 0,
+			"y": 5820,
+			"width": 1220,
+			"height": 1240,
+			"label": "9. Карты и Потерянная душа",
+			"color": "3"
+		},
+		{
+			"id": "t8",
+			"type": "text",
+			"text": "## Карты и Потерянная душа\n**Сервер:** CardService, LostSoulMain\n\n**Клиент:** CardClient, LostSoulClient, GhostCurseClient",
+			"x": 20,
+			"y": 5840,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n8x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 07 — Карты культиста и особые награды пропусков.md",
+			"x": 20,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n8x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Design/PE Дизайн 08 — Потерянная душа.md",
+			"x": 620,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g9",
+			"type": "group",
+			"x": 1300,
+			"y": 5820,
+			"width": 1220,
+			"height": 1240,
+			"label": "10. Мир, время и события",
+			"color": "4"
+		},
+		{
+			"id": "t9",
+			"type": "text",
+			"text": "## Мир, время и события\n**Сервер:** DayNightCycle, EventService, DiscoveryService, SandstormBorderService\n\n**Клиент:** AtmosphereClient, TimeOfDayKey, FrontierEventClient, SandstormBorderClient, LocationTitles",
+			"x": 1320,
+			"y": 5840,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n9x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 16 - Discovery.md",
+			"x": 1320,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n9x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 18 - День и ночь.md",
+			"x": 1920,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n9x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 21 - Структура карты.md",
+			"x": 1320,
+			"y": 6458,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n9x3",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 22 - География зон.md",
+			"x": 1920,
+			"y": 6458,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g10",
+			"type": "group",
+			"x": 2600,
+			"y": 5820,
+			"width": 1220,
+			"height": 1240,
+			"label": "11. Звук и окружение",
+			"color": "5"
+		},
+		{
+			"id": "t10",
+			"type": "text",
+			"text": "## Звук и окружение\n**Сервер:** нет\n\n**Клиент:** AmbienceClient, FrontierAmbienceClient, VenueAmbience, DesertEnvironmentAudio, RetroFootsteps, PlayerJoinSound, VisualPolish, WindmillSpin, SaloonDoors",
+			"x": 2620,
+			"y": 5840,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n10x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 24 - Атмосфера.md",
+			"x": 2620,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "g11",
+			"type": "group",
+			"x": 3900,
+			"y": 5820,
+			"width": 1220,
+			"height": 1240,
+			"label": "12. Интро и интерфейс",
+			"color": "6"
+		},
+		{
+			"id": "t11",
+			"type": "text",
+			"text": "## Интро и интерфейс\n**Сервер:** IntroService\n\n**Клиент:** IntroClient, HUD, HudToggle, InteractionPromptStyle, EmoteWheel",
+			"x": 3920,
+			"y": 5840,
+			"width": 1180,
+			"height": 300
+		},
+		{
+			"id": "n11x0",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 19 - Интро.md",
+			"x": 3920,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n11x1",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 20 - HUD.md",
+			"x": 4520,
+			"y": 6160,
+			"width": 580,
+			"height": 280
+		},
+		{
+			"id": "n11x2",
+			"type": "file",
+			"file": "Roblox - PANDEMIC EXPRESS/Системы/PE 34 - Эмоции, колесо B и доставание револьвера.md",
+			"x": 3920,
+			"y": 6458,
+			"width": 580,
+			"height": 280
+		}
+	],
+	"edges": [
+		{
+			"id": "world-df",
+			"fromNode": "world",
+			"fromSide": "right",
+			"toNode": "df",
+			"toSide": "left",
+			"label": "остров B"
+		},
+		{
+			"id": "df-cc",
+			"fromNode": "df",
+			"fromSide": "right",
+			"toNode": "cc",
+			"toSide": "left",
+			"label": "поезд"
+		},
+		{
+			"id": "df-sys",
+			"fromNode": "df",
+			"fromSide": "bottom",
+			"toNode": "sys",
+			"toSide": "top",
+			"label": "как это работает"
+		},
+		{
+			"id": "sys-g0",
+			"fromNode": "sys",
+			"fromSide": "bottom",
+			"toNode": "g0",
+			"toSide": "top"
+		},
+		{
+			"id": "sys-g1",
+			"fromNode": "sys",
+			"fromSide": "bottom",
+			"toNode": "g1",
+			"toSide": "top"
+		},
+		{
+			"id": "sys-g2",
+			"fromNode": "sys",
+			"fromSide": "bottom",
+			"toNode": "g2",
+			"toSide": "top"
+		},
+		{
+			"id": "sys-g3",
+			"fromNode": "sys",
+			"fromSide": "bottom",
+			"toNode": "g3",
+			"toSide": "top"
+		}
+	]
+}
