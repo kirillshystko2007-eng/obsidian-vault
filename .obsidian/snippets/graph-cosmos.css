@@ -17,12 +17,8 @@
     radial-gradient(1px 1px at 66% 58%, rgba(200,255,220,.35) 50%, transparent 51%),
     radial-gradient(1px 1px at 22% 52%, rgba(255,255,255,.30) 50%, transparent 51%),
     radial-gradient(1.5px 1.5px at 92% 12%, rgba(255,255,255,.45) 50%, transparent 51%),
-    /* nebulae: neural green, magenta, cyan */
-    radial-gradient(ellipse 55% 40% at 30% 38%, rgba(57,255,20,.075), transparent 70%),
-    radial-gradient(ellipse 50% 42% at 74% 66%, rgba(255,43,214,.085), transparent 70%),
-    radial-gradient(ellipse 40% 30% at 82% 20%, rgba(0,240,255,.06), transparent 70%),
-    /* the void: deep navy, darker at the edges */
-    radial-gradient(ellipse 85% 75% at 50% 50%, #0B1238 0%, #060A24 50%, #02030C 100%);
+    /* the void: real black */
+    #000000;
 }
 
 /* Soft neon bloom: the canvas glows a little around every star and link */
@@ -49,7 +45,7 @@
 /* Graph controls panel: dark glass with a neon edge */
 .workspace-leaf-content[data-type="graph"] .graph-controls,
 .workspace-leaf-content[data-type="localgraph"] .graph-controls {
-  background: rgba(4, 7, 26, .80);
+  background: rgba(0, 0, 0, .82);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(57, 255, 20, .28);
   box-shadow: 0 0 18px rgba(57, 255, 20, .10), inset 0 0 12px rgba(255, 43, 214, .06);
@@ -58,6 +54,9 @@
 
 /* 3D graph views share the same void behind their canvas */
 .workspace-leaf-content[data-type="3d-graph-view"] .view-content,
-.workspace-leaf-content[data-type="galaxy-graph-view"] .view-content {
-  background: radial-gradient(ellipse 85% 75% at 50% 50%, #0B1238 0%, #060A24 50%, #02030C 100%);
+.workspace-leaf-content[data-type="galaxy-graph-view"] .view-content,
+.galaxy-graph-view,
+.galaxy-graph-shell,
+.galaxy-graph-canvas {
+  background: #000000 !important;
 }
