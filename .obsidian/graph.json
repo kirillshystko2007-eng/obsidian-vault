@@ -8,137 +8,144 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:\"00 Главная\"",
+      "query": "file:/^-\\.md$/",
       "color": {
         "a": 1,
-        "rgb": 16769357
+        "rgb": 16774320
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
       "color": {
         "a": 1,
-        "rgb": 13041469
+        "rgb": 15400765
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
       "color": {
         "a": 1,
-        "rgb": 58819
+        "rgb": 4063115
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
       "color": {
         "a": 1,
-        "rgb": 4063115
+        "rgb": 11861817
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
       "color": {
         "a": 1,
-        "rgb": 10190079
+        "rgb": 65478
+      }
+    },
+    {
+      "query": "path:\"Roblox - PANDEMIC EXPRESS/Карта\"",
+      "color": {
+        "a": 1,
+        "rgb": 8257456
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
       "color": {
         "a": 1,
-        "rgb": 3111935
+        "rgb": 2883418
       }
     },
     {
       "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
       "color": {
         "a": 1,
-        "rgb": 8255999
+        "rgb": 3800852
       }
     },
     {
       "query": "path:\"Sunset driver/Версии\"",
       "color": {
         "a": 1,
-        "rgb": 16736210
+        "rgb": 12729343
       }
     },
     {
       "query": "path:\"Sunset driver/Системы\"",
       "color": {
         "a": 1,
-        "rgb": 16747069
+        "rgb": 16732088
       }
     },
     {
       "query": "path:\"Sunset driver\"",
       "color": {
         "a": 1,
-        "rgb": 16727386
+        "rgb": 16722902
       }
     },
     {
       "query": "path:\"Roblox - zombies speedstream/Системы\"",
       "color": {
         "a": 1,
-        "rgb": 4063134
+        "rgb": 4045055
       }
     },
     {
       "query": "path:\"Roblox - zombies speedstream\"",
       "color": {
         "a": 1,
-        "rgb": 10354493
+        "rgb": 61695
       }
     },
     {
       "query": "path:\"Roblox - Use magick for Animals/Биомы\"",
       "color": {
         "a": 1,
-        "rgb": 16743142
+        "rgb": 11832575
       }
     },
     {
       "query": "path:\"Roblox - Use magick for Animals/Системы\"",
       "color": {
         "a": 1,
-        "rgb": 11566335
+        "rgb": 5078271
       }
     },
     {
       "query": "path:\"Roblox - Use magick for Animals\"",
       "color": {
         "a": 1,
-        "rgb": 13917439
+        "rgb": 8084735
       }
     },
     {
       "query": "path:\"Claude - Визуальная память/Сессии\"",
       "color": {
         "a": 1,
-        "rgb": 9425919
+        "rgb": 16747069
       }
     },
     {
       "query": "path:\"Claude - Визуальная память\"",
       "color": {
         "a": 1,
-        "rgb": 15266047
+        "rgb": 16726876
       }
     },
     {
       "query": "path:\"Прочее\"",
       "color": {
         "a": 1,
-        "rgb": 9080744
+        "rgb": 5991326
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1.35,
-  "lineSizeMultiplier": 0.7,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 0.45,
   "collapse-forces": false,
   "centerStrength": 0.45,
   "repelStrength": 12,

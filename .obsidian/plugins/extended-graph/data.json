@@ -68,83 +68,93 @@
       "colormap": "winter",
       "colors": [
         {
-          "type": "Roblox - PANDEMIC EXPRESS/Системы",
-          "color": "#2F7BFF",
-          "recursive": false
-        },
-        {
-          "type": "Roblox - PANDEMIC EXPRESS/Design",
-          "color": "#9B7CFF",
+          "type": "Roblox - PANDEMIC EXPRESS/Goals/Пожелания",
+          "color": "#EAFF3D",
           "recursive": false
         },
         {
           "type": "Roblox - PANDEMIC EXPRESS/Goals",
-          "color": "#00E5C3",
-          "recursive": false
-        },
-        {
-          "type": "Roblox - PANDEMIC EXPRESS/Reports",
           "color": "#3DFF8B",
           "recursive": false
         },
         {
+          "type": "Roblox - PANDEMIC EXPRESS/Reports",
+          "color": "#B4FF39",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Design",
+          "color": "#00FFC6",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Карта",
+          "color": "#7DFFB0",
+          "recursive": false
+        },
+        {
+          "type": "Roblox - PANDEMIC EXPRESS/Системы",
+          "color": "#2BFF5A",
+          "recursive": false
+        },
+        {
           "type": "Roblox - PANDEMIC EXPRESS",
-          "color": "#7DF9FF",
+          "color": "#39FF14",
           "recursive": false
         },
         {
           "type": "Sunset driver/Версии",
-          "color": "#FF5FD2",
+          "color": "#C23BFF",
           "recursive": false
         },
         {
           "type": "Sunset driver/Системы",
-          "color": "#FF8A3D",
+          "color": "#FF4FB8",
           "recursive": false
         },
         {
           "type": "Sunset driver",
-          "color": "#FF3D5A",
-          "recursive": false
-        },
-        {
-          "type": "Прочее",
-          "color": "#8A8FA8",
+          "color": "#FF2BD6",
           "recursive": false
         },
         {
           "type": "Roblox - zombies speedstream/Системы",
-          "color": "#3DFF9E",
+          "color": "#3DB8FF",
           "recursive": false
         },
         {
           "type": "Roblox - zombies speedstream",
-          "color": "#9DFF3D",
+          "color": "#00F0FF",
           "recursive": false
         },
         {
           "type": "Roblox - Use magick for Animals/Биомы",
-          "color": "#FF7AE6",
+          "color": "#B48CFF",
           "recursive": false
         },
         {
           "type": "Roblox - Use magick for Animals/Системы",
-          "color": "#B07CFF",
+          "color": "#4D7CFF",
           "recursive": false
         },
         {
           "type": "Roblox - Use magick for Animals",
-          "color": "#D45CFF",
+          "color": "#7B5CFF",
           "recursive": false
         },
         {
           "type": "Claude - Визуальная память/Сессии",
-          "color": "#8FD3FF",
+          "color": "#FF8A3D",
           "recursive": false
         },
         {
           "type": "Claude - Визуальная память",
-          "color": "#E8F0FF",
+          "color": "#FF3B5C",
+          "recursive": false
+        },
+        {
+          "type": "Прочее",
+          "color": "#5B6B9E",
           "recursive": false
         }
       ],
@@ -169,137 +179,144 @@
     "collapse-color-groups": false,
     "colorGroups": [
       {
-        "query": "file:\"00 Главная\"",
+        "query": "file:/^-\\.md$/",
         "color": {
           "a": 1,
-          "rgb": 16769357
+          "rgb": 16774320
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
         "color": {
           "a": 1,
-          "rgb": 13041469
+          "rgb": 15400765
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
         "color": {
           "a": 1,
-          "rgb": 58819
+          "rgb": 4063115
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
         "color": {
           "a": 1,
-          "rgb": 4063115
+          "rgb": 11861817
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
         "color": {
           "a": 1,
-          "rgb": 10190079
+          "rgb": 65478
+        }
+      },
+      {
+        "query": "path:\"Roblox - PANDEMIC EXPRESS/Карта\"",
+        "color": {
+          "a": 1,
+          "rgb": 8257456
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
         "color": {
           "a": 1,
-          "rgb": 3111935
+          "rgb": 2883418
         }
       },
       {
         "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
         "color": {
           "a": 1,
-          "rgb": 8255999
+          "rgb": 3800852
         }
       },
       {
         "query": "path:\"Sunset driver/Версии\"",
         "color": {
           "a": 1,
-          "rgb": 16736210
+          "rgb": 12729343
         }
       },
       {
         "query": "path:\"Sunset driver/Системы\"",
         "color": {
           "a": 1,
-          "rgb": 16747069
+          "rgb": 16732088
         }
       },
       {
         "query": "path:\"Sunset driver\"",
         "color": {
           "a": 1,
-          "rgb": 16727386
+          "rgb": 16722902
         }
       },
       {
         "query": "path:\"Roblox - zombies speedstream/Системы\"",
         "color": {
           "a": 1,
-          "rgb": 4063134
+          "rgb": 4045055
         }
       },
       {
         "query": "path:\"Roblox - zombies speedstream\"",
         "color": {
           "a": 1,
-          "rgb": 10354493
+          "rgb": 61695
         }
       },
       {
         "query": "path:\"Roblox - Use magick for Animals/Биомы\"",
         "color": {
           "a": 1,
-          "rgb": 16743142
+          "rgb": 11832575
         }
       },
       {
         "query": "path:\"Roblox - Use magick for Animals/Системы\"",
         "color": {
           "a": 1,
-          "rgb": 11566335
+          "rgb": 5078271
         }
       },
       {
         "query": "path:\"Roblox - Use magick for Animals\"",
         "color": {
           "a": 1,
-          "rgb": 13917439
+          "rgb": 8084735
         }
       },
       {
         "query": "path:\"Claude - Визуальная память/Сессии\"",
         "color": {
           "a": 1,
-          "rgb": 9425919
+          "rgb": 16747069
         }
       },
       {
         "query": "path:\"Claude - Визуальная память\"",
         "color": {
           "a": 1,
-          "rgb": 15266047
+          "rgb": 16726876
         }
       },
       {
         "query": "path:\"Прочее\"",
         "color": {
           "a": 1,
-          "rgb": 9080744
+          "rgb": 5991326
         }
       }
     ],
     "collapse-display": true,
     "showArrow": false,
-    "textFadeMultiplier": -0.6,
-    "nodeSizeMultiplier": 1.35,
-    "lineSizeMultiplier": 0.7,
+    "textFadeMultiplier": -1.2,
+    "nodeSizeMultiplier": 1.4,
+    "lineSizeMultiplier": 0.45,
     "collapse-forces": false,
     "centerStrength": 0.45,
     "repelStrength": 12,
@@ -317,129 +334,136 @@
       "engineOptions": {
         "colorGroups": [
           {
-            "query": "file:\"00 Главная\"",
+            "query": "file:/^-\\.md$/",
             "color": {
               "a": 1,
-              "rgb": 16769357
+              "rgb": 16774320
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals/Пожелания\"",
             "color": {
               "a": 1,
-              "rgb": 13041469
+              "rgb": 15400765
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS/Goals\"",
             "color": {
               "a": 1,
-              "rgb": 58819
+              "rgb": 4063115
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS/Reports\"",
             "color": {
               "a": 1,
-              "rgb": 4063115
+              "rgb": 11861817
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS/Design\"",
             "color": {
               "a": 1,
-              "rgb": 10190079
+              "rgb": 65478
+            }
+          },
+          {
+            "query": "path:\"Roblox - PANDEMIC EXPRESS/Карта\"",
+            "color": {
+              "a": 1,
+              "rgb": 8257456
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS/Системы\"",
             "color": {
               "a": 1,
-              "rgb": 3111935
+              "rgb": 2883418
             }
           },
           {
             "query": "path:\"Roblox - PANDEMIC EXPRESS\"",
             "color": {
               "a": 1,
-              "rgb": 8255999
+              "rgb": 3800852
             }
           },
           {
             "query": "path:\"Sunset driver/Версии\"",
             "color": {
               "a": 1,
-              "rgb": 16736210
+              "rgb": 12729343
             }
           },
           {
             "query": "path:\"Sunset driver/Системы\"",
             "color": {
               "a": 1,
-              "rgb": 16747069
+              "rgb": 16732088
             }
           },
           {
             "query": "path:\"Sunset driver\"",
             "color": {
               "a": 1,
-              "rgb": 16727386
+              "rgb": 16722902
             }
           },
           {
             "query": "path:\"Roblox - zombies speedstream/Системы\"",
             "color": {
               "a": 1,
-              "rgb": 4063134
+              "rgb": 4045055
             }
           },
           {
             "query": "path:\"Roblox - zombies speedstream\"",
             "color": {
               "a": 1,
-              "rgb": 10354493
+              "rgb": 61695
             }
           },
           {
             "query": "path:\"Roblox - Use magick for Animals/Биомы\"",
             "color": {
               "a": 1,
-              "rgb": 16743142
+              "rgb": 11832575
             }
           },
           {
             "query": "path:\"Roblox - Use magick for Animals/Системы\"",
             "color": {
               "a": 1,
-              "rgb": 11566335
+              "rgb": 5078271
             }
           },
           {
             "query": "path:\"Roblox - Use magick for Animals\"",
             "color": {
               "a": 1,
-              "rgb": 13917439
+              "rgb": 8084735
             }
           },
           {
             "query": "path:\"Claude - Визуальная память/Сессии\"",
             "color": {
               "a": 1,
-              "rgb": 9425919
+              "rgb": 16747069
             }
           },
           {
             "query": "path:\"Claude - Визуальная память\"",
             "color": {
               "a": 1,
-              "rgb": 15266047
+              "rgb": 16726876
             }
           },
           {
             "query": "path:\"Прочее\"",
             "color": {
               "a": 1,
-              "rgb": 9080744
+              "rgb": 5991326
             }
           }
         ],
@@ -452,10 +476,10 @@
         "localForelinks": true,
         "localInterlinks": false,
         "localJumps": 1,
-        "lineSizeMultiplier": 0.7,
-        "nodeSizeMultiplier": 1.35,
+        "lineSizeMultiplier": 0.45,
+        "nodeSizeMultiplier": 1.4,
         "showArrow": false,
-        "textFadeMultiplier": -0.6,
+        "textFadeMultiplier": -1.2,
         "centerStrength": 0.45,
         "linkDistance": 180,
         "linkStrength": 0.85,

@@ -1,0 +1,11 @@
+{
+  "autoRotate": true,
+  "autoRotateSpeed": 0.22,
+  "backgroundColor": "#04071A",
+  "bloomStrength": 1.6,
+  "excludedFolders": "",
+  "linkOpacity": 0.16,
+  "maxLinks": 12000,
+  "nodeScale": 1.1,
+  "showOrphans": true
+}
