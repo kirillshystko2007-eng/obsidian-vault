@@ -1,0 +1,14 @@
+{
+  "name": "Obsidian AI GameDev Knowledge Base",
+  "language": "Russian explanations with English terminology",
+  "engines": [
+    "Unity",
+    "Unreal Engine",
+    "Godot",
+    "Engine-agnostic",
+    "Python"
+  ],
+  "note_count": 35,
+  "prepared": "2026-11-27",
+  "scope_note": "Curated starter encyclopedia; external candidate repositories require manual verification."
+}
